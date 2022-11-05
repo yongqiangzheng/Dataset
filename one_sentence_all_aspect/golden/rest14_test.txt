@@ -1,0 +1,1800 @@
+the bread is top notch as well .
+bread_1_1 [SEP] 
+1 
+i have to say they have one of the fastest delivery times in the city .
+delivery times_10_11 [SEP] 
+1 
+food is always fresh and hot - ready to eat !
+food_0_0 [SEP] 
+1 
+did i mention that the coffee is outstanding ?
+coffee_5_5 [SEP] 
+1 
+certainly not the best sushi in new york , however , it is always fresh , and the place is very clean , sterile .
+place_18_18 [SEP] 
+1 
+i trust the people at go sushi , it never disappoints .
+people_3_3 [SEP] 
+1 
+straight-forward , no surprises , very decent japanese food .
+japanese food_7_8 [SEP] 
+1 
+best spicy tuna roll , great asian salad .
+asian salad_6_7 [SEP] spicy tuna roll_1_3 [SEP] 
+1 1 
+try the rose roll -LRB- not on menu -RRB- .
+rose roll_2_3 [SEP] menu_7_7 [SEP] 
+1 0 
+i love the drinks , esp lychee martini , and the food is also very good .
+drinks_3_3 [SEP] lychee martini_6_7 [SEP] food_11_11 [SEP] 
+1 1 1 
+in fact , this was not a nicoise salad and was barely eatable .
+nicoise salad_7_8 [SEP] 
+-1 
+while there 's a decent menu , it should n't take ten minutes to get your drinks and 45 for a dessert pizza .
+menu_5_5 [SEP] drinks_16_16 [SEP] dessert pizza_21_22 [SEP] 
+1 0 0 
+once we sailed , the top-notch food and live entertainment sold us on a unforgettable evening .
+food_6_6 [SEP] live entertainment_8_9 [SEP] 
+1 1 
+our waiter was horrible ; so rude and disinterested .
+waiter_1_1 [SEP] 
+-1 
+the sangria 's - watered down .
+sangria_1_1 [SEP] 
+-1 
+menu - uneventful , small .
+menu_0_0 [SEP] 
+-1 
+anytime and everytime i find myself in the neighborhood i will go to sushi rose for fresh sushi and great portions all at a reasonable price .
+sushi_17_17 [SEP] portions_20_20 [SEP] price_25_25 [SEP] 
+1 1 1 
+great food but the service was dreadful !
+food_1_1 [SEP] service_4_4 [SEP] 
+1 -1 
+the portions of the food that came out were mediocre .
+portions of the food_1_4 [SEP] 
+0 
+the two waitress 's looked like they had been sucking on lemons .
+waitress 's_2_3 [SEP] 
+-1 
+from the beginning , we were met by friendly staff memebers , and the convienent parking at chelsea piers made it easy for us to get to the boat .
+staff memebers_9_10 [SEP] parking_15_15 [SEP] 
+1 1 
+we enjoyed ourselves thoroughly and will be going back for the desserts ...
+desserts_11_11 [SEP] 
+1 
+desserts are almost incredible : my personal favorite is their tart of the day .
+desserts_0_0 [SEP] tart of the day_10_13 [SEP] 
+1 1 
+the food was extremely tasty , creatively presented and the wine excellent .
+food_1_1 [SEP] wine_10_10 [SEP] 
+1 1 
+the lasagna was probably the best i have tasted .
+lasagna_1_1 [SEP] 
+1 
+harumi sushi has the freshest and most delicious array of sushi in nyc .
+array of sushi_8_10 [SEP] 
+1 
+i highly recommend it for not just its superb cuisine , but also for its friendly owners and staff .
+cuisine_9_9 [SEP] owners_16_16 [SEP] staff_18_18 [SEP] 
+1 1 1 
+if you 're craving some serious indian food and desire a cozy ambiance , this is quite and exquisite choice .
+indian food_6_7 [SEP] ambiance_12_12 [SEP] 
+1 1 
+i definitely enjoyed the food as well .
+food_4_4 [SEP] 
+1 
+it was pleasantly uncrowded , the service was delightful , the garden adorable , the food -LRB- from appetizers to entrees -RRB- was delectable .
+service_6_6 [SEP] garden_11_11 [SEP] food_15_15 [SEP] appetizers_18_18 [SEP] entrees_20_20 [SEP] 
+1 1 1 1 1 
+the food is surprisingly good , and the decor is nice .
+food_1_1 [SEP] decor_8_8 [SEP] 
+1 1 
+how pretentious and inappropriate for mj grill to claim that it provides power lunch and dinners !
+lunch_13_13 [SEP] dinners_15_15 [SEP] 
+-1 -1 
+two wasted steaks -- what a crime !
+steaks_2_2 [SEP] 
+-1 
+the staff should be a bit more friendly .
+staff_1_1 [SEP] 
+-1 
+i think the meatball parm is good .
+meatball parm_3_4 [SEP] 
+1 
+if you want good tasting , well seasoned latin food eat at cabana and you ca n't go wrong .
+latin food_8_9 [SEP] 
+1 
+definitely try the taglierini with truffles - it was incredible .
+taglierini with truffles_3_5 [SEP] 
+1 
+also , the staff is very attentive and really personable .
+staff_3_3 [SEP] 
+1 
+the gnocchi literally melts in your mouth !
+gnocchi_1_1 [SEP] 
+1 
+had a great experience at trio ... staff was pleasant ; food was tasty and large in portion size - i would highly recommend the portobello / gorgonzola / sausage appetizer and the lobster risotto .
+staff_7_7 [SEP] food_11_11 [SEP] portion size_17_18 [SEP] portobello / gorgonzola / sausage appetizer_25_30 [SEP] lobster risotto_33_34 [SEP] 
+1 1 1 1 1 
+entrees include classics like lasagna , fettuccine alfredo and chicken parmigiana .
+entrees_0_0 [SEP] lasagna_4_4 [SEP] fettuccine alfredo_6_7 [SEP] chicken parmigiana_9_10 [SEP] 
+0 0 0 0 
+the food is good , the teriyaki i recommend .
+food_1_1 [SEP] teriyaki_6_6 [SEP] 
+1 1 
+meal was very expensive for what you get .
+meal_0_0 [SEP] 
+-1 
+try the peanut butter sorbet and the pizza with soy cheese !
+peanut butter sorbet_2_4 [SEP] pizza with soy cheese_7_10 [SEP] 
+1 1 
+good food at the right price , what more can you ask for .
+food_1_1 [SEP] price_5_5 [SEP] 
+1 1 
+the food is top notch , the service is attentive , and the atmosphere is great .
+food_1_1 [SEP] service_7_7 [SEP] atmosphere_13_13 [SEP] 
+1 1 1 
+great food , great waitstaff , great atmosphere , and best of all great beer !
+food_1_1 [SEP] waitstaff_4_4 [SEP] atmosphere_7_7 [SEP] beer_14_14 [SEP] 
+1 1 1 1 
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good -LRB- kimono shrimp special was excellent -RRB- and has a great atmosphere .
+food_13_13 [SEP] kimono shrimp special_20_22 [SEP] atmosphere_30_30 [SEP] 
+1 1 1 
+the menu is interesting and quite reasonably priced .
+menu_1_1 [SEP] priced_7_7 [SEP] 
+1 1 
+the food was delicious and clearly fresh ingredients were used .
+food_1_1 [SEP] ingredients_7_7 [SEP] 
+1 1 
+this made it obvious that the food was n't cooked fresh ; it was obviously made before hand and then reheated .
+food_6_6 [SEP] 
+-1 
+appetizer are excellent here ; you can make a great -LRB- and inexpensive -RRB- meal out of them .
+appetizer_0_0 [SEP] meal_14_14 [SEP] 
+1 1 
+the spicy mussels are a highlight .
+spicy mussels_1_2 [SEP] 
+1 
+also get the onion rings -- best we 've ever had .
+onion rings_3_4 [SEP] 
+1 
+however , being foodies , we were utterly disappointed with the food .
+food_11_11 [SEP] 
+-1 
+huge portions , great and attentive service , and pretty good prices .
+portions_1_1 [SEP] service_6_6 [SEP] prices_11_11 [SEP] 
+1 1 1 
+i was highly disappointed by their service and food .
+service_6_6 [SEP] food_8_8 [SEP] 
+-1 -1 
+i complained to the waiter and then to the manager , but the intensity of rudeness from them just went up .
+waiter_4_4 [SEP] manager_9_9 [SEP] 
+-1 -1 
+the food is great and the milkshakes are even better !
+food_1_1 [SEP] milkshakes_6_6 [SEP] 
+1 1 
+the mushroom barley soup is amazing .
+mushroom barley soup_1_3 [SEP] 
+1 
+i 'm glad i did as the food was very good and the staff was friendly , courteous and efficient .
+food_7_7 [SEP] staff_13_13 [SEP] 
+1 1 
+their duck here is also absolutely delicious .
+duck_1_1 [SEP] 
+1 
+while it was large and a bit noisy , the drinks were fantastic , and the food was superb .
+drinks_10_10 [SEP] food_16_16 [SEP] 
+1 1 
+one caveat : some of the curried casseroles can be a trifle harsh .
+curried casseroles_6_7 [SEP] 
+-1 
+the food was almost always excellent .
+food_1_1 [SEP] 
+1 
+i was pleasently surprised at the taste .
+taste_6_6 [SEP] 
+1 
+a nice space , as long as it does n't get too crowded and a singleminded devotion to its chosen cuisine make mare a great choice for seafood lovers .
+seafood_27_27 [SEP] cuisine_20_20 [SEP] 
+1 1 
+i never had an orange donut before so i gave it a shot .
+orange donut_4_5 [SEP] 
+0 
+they really provide a relaxing , laid-back atmosphere .
+atmosphere_7_7 [SEP] 
+1 
+this particular location certainly uses substandard meats .
+meats_6_6 [SEP] 
+-1 
+the management was less than accomodating .
+management_1_1 [SEP] 
+-1 
+the ambience is also more laid-back and relaxed .
+ambience_1_1 [SEP] 
+1 
+the teas are great and all the sweets are homemade .
+teas_1_1 [SEP] sweets_7_7 [SEP] 
+1 1 
+mojitos and the service are the best part in there
+mojitos_0_0 [SEP] service_3_3 [SEP] 
+1 1 
+sandwiches , burgers and salads , like the lemon - dressed cobb , are classic successes .
+sandwiches_0_0 [SEP] burgers_2_2 [SEP] salads_4_4 [SEP] lemon - dressed cobb_8_11 [SEP] 
+1 1 1 1 
+the design is very intimate and romantic .
+design_1_1 [SEP] 
+1 
+the food was wonderful and imaginative .
+food_1_1 [SEP] 
+1 
+the staff is very sharp and they look good too .
+staff_1_1 [SEP] 
+1 
+the worst though was the taste .
+taste_5_5 [SEP] 
+-1 
+the fajita we tried was tasteless and burned and the mole sauce was way too sweet .
+fajita_1_1 [SEP] mole sauce_10_11 [SEP] 
+-1 -1 
+stay with the roasted chickens and you 'll be fine .
+roasted chickens_3_4 [SEP] 
+1 
+the atmosphere is warm , comfortable , artsy and sexy .
+atmosphere_1_1 [SEP] 
+1 
+the food is great -LRB- big selection , reasonable prices -RRB- and the drinks are really good .
+food_1_1 [SEP] selection_6_6 [SEP] prices_9_9 [SEP] drinks_13_13 [SEP] 
+1 1 1 1 
+the steak melted in my mouth .
+steak_1_1 [SEP] 
+1 
+the food did take a few extra minutes to come , but the cute waiters ' jokes and friendliness made up for it .
+waiters_14_14 [SEP] food_1_1 [SEP] 
+1 0 
+most importantly , it is reasonably priced .
+priced_6_6 [SEP] 
+1 
+the selection of food is excellent -LRB- i 'm not used to having much choice at restaurants -RRB- , and the atmosphere is great .
+selection of food_1_3 [SEP] atmosphere_21_21 [SEP] 
+1 1 
+only suggestion is that you skip the dessert , it was overpriced and fell short on taste .
+dessert_7_7 [SEP] taste_16_16 [SEP] 
+-1 -1 
+food was decent , but not great .
+food_0_0 [SEP] 
+1 
+i dont know what some people who rave about this hot dog are talking about .
+hot dog_10_11 [SEP] 
+-1 
+it is a hidden delight complete with a quaint bar and good food .
+bar_9_9 [SEP] food_12_12 [SEP] 
+1 1 
+the waiters always look angry and even ignore their high-tipping regulars .
+waiters_1_1 [SEP] 
+-1 
+the atmosphere is very nice , and a welcome escape from the rest of the si mall .
+atmosphere_1_1 [SEP] 
+1 
+yes , they 're a bit more expensive then typical , but then again , so is their food .
+food_18_18 [SEP] 
+1 
+i can say that the wraps , burgers and salads were all fresh , tasty and the mango margareta at $ 9 was well worth the money .
+wraps_5_5 [SEP] burgers_7_7 [SEP] salads_9_9 [SEP] mango margareta_17_18 [SEP] 
+1 1 1 1 
+anywhere else , the prices would be 3x as high !
+prices_4_4 [SEP] 
+1 
+the service we experienced was friendly and good .
+service_1_1 [SEP] 
+1 
+our waiter was friendly and it is a shame that he didnt have a supportive staff to work with .
+waiter_1_1 [SEP] staff_15_15 [SEP] 
+1 -1 
+the folding chair i was seated at was uncomfortable .
+folding chair_1_2 [SEP] 
+-1 
+service was among the best i have ever had in nyc .
+service_0_0 [SEP] 
+1 
+the fettucino alfredo was amazing .
+fettucino alfredo_1_2 [SEP] 
+1 
+the food was very good and i was pleasantly surprised to see so many vegan options .
+food_1_1 [SEP] vegan options_14_15 [SEP] 
+1 1 
+i know real indian food and this was n't it .
+indian food_3_4 [SEP] 
+-1 
+be sure to try the smoked trout ... lamb chops , veal chops , rabbit , the potato gratin , on and on and on ...
+smoked trout_5_6 [SEP] lamb chops_8_9 [SEP] veal chops_11_12 [SEP] rabbit_14_14 [SEP] potato gratin_17_18 [SEP] 
+1 1 1 1 1 
+even when the chef is not in the house , the food and service are right on target .
+chef_3_3 [SEP] food_11_11 [SEP] service_13_13 [SEP] 
+0 1 1 
+everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty .
+eggs benedict_3_4 [SEP] mussels_7_7 [SEP] hamburger_11_11 [SEP] 
+1 1 1 
+the waiters were very professional , courteous and attentive .
+waiters_1_1 [SEP] 
+1 
+the falafal was rather over cooked and dried but the chicken was fine .
+falafal_1_1 [SEP] chicken_10_10 [SEP] 
+-1 1 
+i highly reccomend the grand marnier shrimp , it 's insanely good .
+grand marnier shrimp_4_6 [SEP] 
+1 
+we been there and we really enjoy the food , was areally great food , and the service was really good .
+food_8_8 [SEP] food_13_13 [SEP] service_17_17 [SEP] 
+1 1 1 
+desserts include flan and sopaipillas .
+desserts_0_0 [SEP] flan_2_2 [SEP] sopaipillas_4_4 [SEP] 
+0 0 0 
+i was starving and the small portions were driving me crazy !
+portions_6_6 [SEP] 
+-1 
+the wait staff was loud and inconsiderate .
+wait staff_1_2 [SEP] 
+-1 
+however , the food and service and dramatically lacking .
+food_3_3 [SEP] service_5_5 [SEP] 
+-1 -1 
+the sushi is cut in blocks bigger than my cell phone .
+sushi_1_1 [SEP] 
+-1 
+the service is great , my soup always arrives nice and hot .
+service_1_1 [SEP] soup_6_6 [SEP] 
+1 1 
+it had been awhile and i forgot just how delicious crepes can be .
+crepes_10_10 [SEP] 
+1 
+montparnasse 's desserts -- especially the silken creme brulee and paper-thin apple tart -- are good enough on their own to make the restaurant worth the trip .
+desserts_2_2 [SEP] creme brulee_7_8 [SEP] apple tart_11_12 [SEP] 
+1 1 1 
+i had a delicious shrimp creole .
+shrimp creole_4_5 [SEP] 
+1 
+the chicken dinner was real good .
+chicken dinner_1_2 [SEP] 
+1 
+beware of the chili signed food items not unless you want to call the fire department to douse the flames in your mouth .
+chili signed food items_3_6 [SEP] 
+-1 
+the decor is designed in a contemporary japanese style restaurant .
+decor_1_1 [SEP] 
+0 
+but the food was delicious .
+food_2_2 [SEP] 
+1 
+try the ribs , sizzling beef and couple it with coconut rice .
+coconut rice_10_11 [SEP] ribs_2_2 [SEP] beef_5_5 [SEP] 
+1 1 1 
+the avocado salad is a personal fave .
+avocado salad_1_2 [SEP] 
+1 
+and , the honey bbq rib tips are yummy !
+honey bbq rib tips_3_6 [SEP] 
+1 
+the best chinese food uptown !
+chinese food_2_3 [SEP] 
+1 
+service is known for bending over backwards to make everyone happy .
+service_0_0 [SEP] 
+1 
+the staff is very friendly .
+staff_1_1 [SEP] 
+1 
+waiters are very friendly and the pasta is out of this world .
+waiters_0_0 [SEP] pasta_6_6 [SEP] 
+1 1 
+great wine list and great cocktail menu .
+wine list_1_2 [SEP] cocktail menu_5_6 [SEP] 
+1 1 
+the crab cakes are delicious and the bbq rib was perfect .
+crab cakes_1_2 [SEP] bbq rib_7_8 [SEP] 
+1 1 
+the food is wonderful , artfully done and simply delicious .
+food_1_1 [SEP] 
+1 
+tiny restaurant with very fast service .
+service_5_5 [SEP] 
+1 
+my husband and i have been there at least 6 times and we 've always been given the highest service and often free desserts .
+service_19_19 [SEP] desserts_23_23 [SEP] 
+1 1 
+a beautiful atmosphere , perfect for drinks and/or appetizers .
+atmosphere_2_2 [SEP] drinks_6_6 [SEP] appetizers_8_8 [SEP] 
+1 0 0 
+they make the best pizza in new jersey .
+pizza_4_4 [SEP] 
+1 
+what a difference , the service was very comforting and the food was better than average , but what really standed out was such a dynamic and extensive beer list .
+service_5_5 [SEP] food_11_11 [SEP] beer list_28_29 [SEP] 
+1 1 1 
+frankly , the chinese food here is something i can make better at home .
+chinese food_3_4 [SEP] 
+-1 
+there was only one waiter for the whole restaurant upstairs .
+waiter_4_4 [SEP] 
+0 
+we started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate .
+scallops_4_4 [SEP] asparagus_6_6 [SEP] soft shell crab_11_13 [SEP] cheese plate_18_19 [SEP] 
+0 0 0 0 
+not to be overlooked , the service is excellent .
+service_6_6 [SEP] 
+1 
+this without question is one of the worst hotdogs i have ever had .
+hotdogs_8_8 [SEP] 
+-1 
+the staff is unbelievably friendly , and i dream about their saag gosht ... so good .
+staff_1_1 [SEP] saag gosht_11_12 [SEP] 
+1 1 
+i also recommend the garlic knots .
+garlic knots_4_5 [SEP] 
+1 
+best indian food i have ever eaten .
+indian food_1_2 [SEP] 
+1 
+this place has the best pizza .
+pizza_5_5 [SEP] 
+1 
+the music which is sometimes a little too heavy for my taste .
+music_1_1 [SEP] 
+-1 
+the service is excellent and always informative without an air .
+service_1_1 [SEP] 
+1 
+the owner and staff go to great lengths to make you feel comfortable .
+owner_1_1 [SEP] staff_3_3 [SEP] 
+1 1 
+the sushi is always fresh and yummy and the menu is pretty varied .
+sushi_1_1 [SEP] menu_9_9 [SEP] 
+1 1 
+the food was great - sushi was good , but the cooked food amazed us .
+food_1_1 [SEP] sushi_5_5 [SEP] cooked food_11_12 [SEP] 
+1 1 1 
+their dinner specials are fantastic .
+dinner specials_1_2 [SEP] 
+1 
+great food , great drinks , nice dining atmosphere .
+food_1_1 [SEP] drinks_4_4 [SEP] dining atmosphere_7_8 [SEP] 
+1 1 1 
+for the price you pay for the food here , you 'd expect it to be at least on par with other japanese restaurants .
+price_2_2 [SEP] food_7_7 [SEP] 
+-1 -1 
+food portion was small and below average .
+food portion_0_1 [SEP] 
+-1 
+sit back in one of those comfortable chairs .
+chairs_7_7 [SEP] 
+1 
+my favs here are the tacos pastor and the tostada de tinga ...
+tacos pastor_5_6 [SEP] tostada de tinga_9_11 [SEP] 
+1 1 
+the bartenders and the managers are really nice and the decor is very comfy and laid-back , all the while being trendy .
+bartenders_1_1 [SEP] managers_4_4 [SEP] decor_10_10 [SEP] 
+1 1 1 
+for a savory take on the soup and sandwich meal , try the hot and sour soup .
+hot and sour soup_13_16 [SEP] soup and sandwich meal_6_9 [SEP] 
+1 1 
+this bar has it all - great drinks , cool atmosphere , excellent service and delicious food .
+drinks_7_7 [SEP] atmosphere_10_10 [SEP] service_13_13 [SEP] food_16_16 [SEP] 
+1 1 1 1 
+also , the chick peas with shrimp -LRB- appetizer -RRB- is divine .
+chick peas with shrimp -LRB- appetizer -RRB-_3_9 [SEP] 
+1 
+finally , i got sick of the bad service , obnoxious smirks , and snotty back talk .
+service_8_8 [SEP] 
+-1 
+we ordered lamb which was perfectly cooked and tasted awesome .
+lamb_2_2 [SEP] 
+1 
+i especially like their soft shell crab sandwich with fries .
+soft shell crab sandwich with fries_4_9 [SEP] 
+1 
+if you 're looking for authentic hong kong - style food , look no further .
+hong kong - style food_6_10 [SEP] 
+1 
+good food good wine that 's it .
+food_1_1 [SEP] wine_3_3 [SEP] 
+1 1 
+the staff was extremely friendly and pleasant .
+staff_1_1 [SEP] 
+1 
+while their kitchen food is delicious , their sushi is out of this world .
+kitchen food_2_3 [SEP] sushi_8_8 [SEP] 
+1 1 
+everything is scrumptious , from the excellent service by cute waitresses , to the extremely lush atmosphere .
+service_7_7 [SEP] waitresses_10_10 [SEP] atmosphere_16_16 [SEP] 
+1 1 1 
+it 's traditional , simple italian food .
+italian food_5_6 [SEP] 
+1 
+the food is all-around good , with the rolls usually excellent and the sushi/sashimi not quite on the same level .
+food_1_1 [SEP] rolls_8_8 [SEP] sushi/sashimi_13_13 [SEP] 
+1 1 0 
+-LRB- the sashimi is cut a little thinly .
+sashimi_2_2 [SEP] 
+-1 
+could have had better for 1/3 the price in chinatown .
+price_7_7 [SEP] 
+-1 
+in addition to great hot dogs , dotp has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and english muffins , a delicious nj-based pork product know to us jersey girls and boys as taylor ham .
+hot dogs_4_5 [SEP] breakfast sandwiches_10_11 [SEP] tator tots_21_22 [SEP] english muffins_24_25 [SEP] taylor ham_40_41 [SEP] pork product_30_31 [SEP] 
+1 1 1 1 1 1 
+well , it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks , and then tells us to chill out .
+manager_8_8 [SEP] bartender_12_12 [SEP] drinks_20_20 [SEP] waiting_16_16 [SEP] 
+-1 -1 0 -1 
+not only is the service great , but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable .
+service_4_4 [SEP] atmosphere_18_18 [SEP] 
+1 1 
+when the dish arrived it was blazing with green chillis , definitely not edible by a human .
+green chillis_8_9 [SEP] dish_2_2 [SEP] 
+-1 -1 
+the absolute worst service i 've ever experienced and the food was below average -LRB- when they actually gave people the meals they ordered -RRB- .
+service_3_3 [SEP] food_10_10 [SEP] meals_21_21 [SEP] 
+-1 -1 0 
+it 's about $ 7 for lunch and they have take-out or dine-in .
+lunch_6_6 [SEP] take-out_10_10 [SEP] dine-in_12_12 [SEP] 
+0 0 0 
+be sure to accompany your food with one of their fresh juice concoctions .
+food_5_5 [SEP] fresh juice concoctions_10_12 [SEP] 
+0 1 
+the food is great and the prices are reasonable .
+food_1_1 [SEP] prices_6_6 [SEP] 
+1 1 
+the place is clean , and if you like soul food , then this is the place to be !
+place_1_1 [SEP] soul food_9_10 [SEP] 
+1 1 
+i had roast chicken and a salad .
+roast chicken_2_3 [SEP] salad_6_6 [SEP] 
+0 0 
+they have a very good chicken with avocado and good tuna as well .
+chicken with avocado_5_7 [SEP] tuna_10_10 [SEP] 
+1 1 
+but the meals were terrible .
+meals_2_2 [SEP] 
+-1 
+my chicken was completely dried out and on the cold side and the sauce was not very flavorful .
+chicken_1_1 [SEP] sauce_13_13 [SEP] 
+-1 -1 
+malted milk ball gelato - have you ever in your life heard of anything so ridiculously wonderful ?
+malted milk ball gelato_0_3 [SEP] 
+1 
+way too much money for such a terrible meal .
+meal_8_8 [SEP] 
+-1 
+however , the service is absolutely horrible .
+service_3_3 [SEP] 
+-1 
+a con was the slow bar service .
+bar service_5_6 [SEP] 
+-1 
+dessert was also to die for !
+dessert_0_0 [SEP] 
+1 
+btw , the service is very good .
+service_3_3 [SEP] 
+1 
+it 's eaten with black vinegar and shredded ginger .
+black vinegar_4_5 [SEP] shredded ginger_7_8 [SEP] 
+0 0 
+the unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing - and my escargot looked like it might crawl off the plate .
+lighting_2_2 [SEP] food_10_10 [SEP] disco pop duo_19_21 [SEP] escargot_26_26 [SEP] 
+-1 -1 -1 -1 
+it is a cozy place to go with a couple of friends .
+place_4_4 [SEP] 
+1 
+the service is always great , and the owner walks around to make sure you enjoy .
+service_1_1 [SEP] owner_8_8 [SEP] 
+1 1 
+because the waiters need severe attitue adjustments .
+waiters_2_2 [SEP] 
+-1 
+the food is delicious and highly recommended .
+food_1_1 [SEP] 
+1 
+when it came time to take the order the waiter gave us a hard time , walked away then came back with a paper and pen for us to write down what we wanted ... excuse me but is n't that his job ???
+waiter_9_9 [SEP] 
+-1 
+dieters stick to salads or indulge in vegetarian platters .
+salads_3_3 [SEP] vegetarian platters_7_8 [SEP] 
+1 1 
+so for a filling and healthy meal give it a go .
+meal_6_6 [SEP] 
+1 
+since i cook for a living , i 'm very fussy about the food i eat in restaurants .
+food_13_13 [SEP] 
+0 
+the service was outstanding .
+service_1_1 [SEP] 
+1 
+my friends and i stop here for pizza before hitting the kips bay movie theater .
+pizza_7_7 [SEP] 
+0 
+we always enjoy the pizza .
+pizza_4_4 [SEP] 
+1 
+the service is pretty good .
+service_1_1 [SEP] 
+1 
+yum , the chicken is great here .
+chicken_3_3 [SEP] 
+1 
+the food here was great , a treat from beginning to end .
+food_1_1 [SEP] 
+1 
+the host -LRB- owner -RRB- and servers are personable and caring .
+host -LRB- owner -RRB-_1_4 [SEP] servers_6_6 [SEP] 
+1 1 
+it 's just everything ... the food , the atmosphere ... the incrediby kind and gracious hostess .
+food_6_6 [SEP] atmosphere_9_9 [SEP] hostess_16_16 [SEP] 
+1 1 1 
+the food is very good and the service is great .
+food_1_1 [SEP] service_7_7 [SEP] 
+1 1 
+i usually get one the vietnamese beef noodle soup .
+vietnamese beef noodle soup_5_8 [SEP] 
+0 
+we were wondering why they were there to make our dining experience miserable ?
+dining experience_10_11 [SEP] 
+-1 
+this place has the best indian food in new york , hands down .
+indian food_5_6 [SEP] 
+1 
+the waiters are very friendly and helpful and if you frequent they will remember you .
+waiters_1_1 [SEP] 
+1 
+intimate but charming interior with extremely friendly and attentive service .
+interior_3_3 [SEP] service_9_9 [SEP] 
+1 1 
+the food was as creative as the decor and both worked .
+food_1_1 [SEP] decor_7_7 [SEP] 
+1 1 
+the menu is great , with a good selection , and everything that i have tried is absolutely delicious .
+menu_1_1 [SEP] selection_8_8 [SEP] 
+1 1 
+the sauce is zesty and flavorful and the crust is nice and crispy .
+sauce_1_1 [SEP] crust_8_8 [SEP] 
+1 1 
+this place has the best sushi in the city .
+sushi_5_5 [SEP] 
+1 
+they have an excellent selection -LRB- the rolls with crab are really great -RRB- .
+selection_4_4 [SEP] rolls with crab_7_9 [SEP] 
+1 1 
+everyone who works there -LRB- the host , the bartender , the servers -RRB- is so helpful .
+host_6_6 [SEP] bartender_9_9 [SEP] servers_12_12 [SEP] 
+1 1 1 
+and the food is fantastic .
+food_2_2 [SEP] 
+1 
+favourites include : potato spinach gnocchi and the lamb .
+potato spinach gnocchi_3_5 [SEP] lamb_8_8 [SEP] 
+1 1 
+unfortunately , we chose this spot for lunch as we had done a lot of walking and ended up at the south st seaport .
+lunch_7_7 [SEP] 
+0 
+but regulars know that the sandwiches are the real star here .
+sandwiches_5_5 [SEP] 
+1 
+the skillfully chosen portuguese cheese cart paired with quality port provides the perfect iberian ending .
+port_9_9 [SEP] portuguese cheese cart_3_5 [SEP] 
+1 1 
+my friend had a burger and i had these wonderful blueberry pancakes .
+burger_4_4 [SEP] blueberry pancakes_10_11 [SEP] 
+0 1 
+we were so happy with our food and were even more thrilled when we saw the bill .
+food_6_6 [SEP] bill_16_16 [SEP] 
+1 1 
+all toppings are so fresh you 'd think they had their own vegetable garden and the crust is so perfect , that one actually thinks of how it was made .
+toppings_1_1 [SEP] crust_16_16 [SEP] 
+1 1 
+we 've always gotten amazing service and we love the food .
+service_5_5 [SEP] food_10_10 [SEP] 
+1 1 
+the waitstaff is solicitous and friendly and always seems glad to see us , and the food is wonderful , if not stunningly creative .
+waitstaff_1_1 [SEP] food_16_16 [SEP] 
+1 1 
+i 'm in love with the lobster ravioli !
+lobster ravioli_6_7 [SEP] 
+1 
+we came across this restaurant by accident while at a dumbo art festival and thoroughly enjoyed our meal .
+meal_17_17 [SEP] 
+1 
+service is excellent , no wait , and you get a lot for the price .
+service_0_0 [SEP] price_14_14 [SEP] wait_5_5 [SEP] 
+1 1 1 
+i thought the food is n't cheap at all compared to chinatown .
+food_3_3 [SEP] 
+-1 
+coffee is a better deal than overpriced cosi sandwiches .
+coffee_0_0 [SEP] cosi sandwiches_7_8 [SEP] 
+1 -1 
+we did n't know if we should order a drink or leave ?
+drink_9_9 [SEP] 
+0 
+-RRB- it 's not the best japanese restaurant in the east village , but it 's a pretty solid one for its modest prices , and worth repeat visits .
+prices_23_23 [SEP] 
+1 
+the food is so good and so popular that waiting can really be a nightmare .
+food_1_1 [SEP] waiting_9_9 [SEP] 
+1 -1 
+first walking in the place seemed to have great ambience .
+place_4_4 [SEP] ambience_9_9 [SEP] 
+1 1 
+i went to kitchenette this weekend for brunch .
+brunch_7_7 [SEP] 
+0 
+even for two very hungry people there is plenty of food left to be taken home -LRB- it reheats really well also -RRB- .
+food_10_10 [SEP] 
+1 
+then they somehow made a dry and burnt crust , around a raw and cold inside .
+crust_8_8 [SEP] 
+-1 
+it 's just good food , nothing more and that 's all we want !
+food_4_4 [SEP] 
+1 
+average cake thats been courted by a lot of hype .
+cake_1_1 [SEP] 
+-1 
+my wife and i recently visited the bistro for dinner and had a wonderful experience .
+dinner_9_9 [SEP] 
+0 
+the service is perfect too nothing wrong in this italian/french restaurant
+service_1_1 [SEP] 
+1 
+the $ 72 delmonico steak had to be sent back because it was not cooked to order .
+delmonico steak_3_4 [SEP] 
+-1 
+everytime i go there i ca n't pick anything to eat and not because the menu is filled with great things to eat .
+menu_15_15 [SEP] 
+-1 
+half a chicken with a mountain of rice and beans for $ 6.25 .
+rice_7_7 [SEP] beans_9_9 [SEP] chicken_2_2 [SEP] 
+0 0 0 
+the service is really fast and friendly , and the value is great .
+service_1_1 [SEP] value_10_10 [SEP] 
+1 1 
+we were very impressed with the food and value .
+food_6_6 [SEP] value_8_8 [SEP] 
+1 1 
+you must try the garlic soup !
+garlic soup_4_5 [SEP] 
+1 
+casablanca servces delicious falafel , tabouleh , humus and other mediterranean delights , which are all very inexpensive .
+falafel_3_3 [SEP] tabouleh_5_5 [SEP] humus_7_7 [SEP] mediterranean delights_10_11 [SEP] 
+1 1 1 1 
+the pizza 's are made fresh , crispy , and ready to serve .
+pizza 's_1_2 [SEP] 
+1 
+staff is accomodating make sure you are satified .
+staff_0_0 [SEP] 
+1 
+chef waldy 's always measures up .
+chef_0_0 [SEP] 
+1 
+reasonably priced with very fresh sushi .
+sushi_5_5 [SEP] priced_1_1 [SEP] 
+1 1 
+go for the seafood paella for two .
+seafood paella for two_3_6 [SEP] 
+1 
+all of the apetizers are good and the sangria is very good .
+apetizers_3_3 [SEP] sangria_8_8 [SEP] 
+1 1 
+the one positive thing i can say is that the service was prompt , we got seated right away and the server was very friendly .
+service_10_10 [SEP] server_21_21 [SEP] 
+1 1 
+the staff greeted me warmly at the door and i was seated promptly and the food was excellent .
+staff_1_1 [SEP] food_15_15 [SEP] 
+1 1 
+service is usually pretty good .
+service_0_0 [SEP] 
+1 
+host and hostess was quite rude .
+host_0_0 [SEP] hostess_2_2 [SEP] 
+-1 -1 
+the wait staff is very friendly , if your not rude or picky ... . . our meal at leon last weekend was great - .
+wait staff_1_2 [SEP] meal_17_17 [SEP] 
+1 1 
+i recommend any of their salmon dishes ... .
+salmon dishes_5_6 [SEP] 
+1 
+the foie gras was sweet and luscious .
+foie gras_1_2 [SEP] 
+1 
+the menu , which changes seasonally , shows both regional and international influences .
+menu_1_1 [SEP] 
+0 
+but their mac cheese was yummy !
+mac cheese_2_3 [SEP] 
+1 
+their brunch menu had something for everyone .
+brunch menu_1_2 [SEP] 
+1 
+jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more .
+jazz singer_0_1 [SEP] 
+1 
+they have very quick service which is great when you do n't have much time .
+service_4_4 [SEP] 
+1 
+the food is average : breakfast food , soups , salads , sandwiches , etc. .
+food_1_1 [SEP] breakfast food_5_6 [SEP] soups_8_8 [SEP] salads_10_10 [SEP] sandwiches_12_12 [SEP] 
+0 0 0 0 0 
+i was highly disappointed by the food .
+food_6_6 [SEP] 
+-1 
+the banana pudding they serve has never seen an oven , the crabcakes are way over salted and do n't get me started on the very greasy mac and cheese .
+banana pudding_1_2 [SEP] crabcakes_12_12 [SEP] mac and cheese_27_29 [SEP] 
+-1 -1 -1 
+the staff is arrogant , the prices are way high for brooklyn .
+staff_1_1 [SEP] prices_6_6 [SEP] 
+-1 -1 
+the service is prompt friendly .
+service_1_1 [SEP] 
+1 
+this is literally a hot spot when it comes to the food .
+food_11_11 [SEP] 
+1 
+the downstairs bar scene is very cool and chill ...
+downstairs bar scene_1_3 [SEP] 
+1 
+the food was definitely good , but when all was said and done , i just could n't justify it for the price -LRB- including 2 drinks , $ 100/person -RRB- ...
+food_1_1 [SEP] price_22_22 [SEP] drinks_26_26 [SEP] 
+1 -1 0 
+i 've come here for casual lunches as well as for a friend 's birthday and i always enjoy myself .
+casual lunches_5_6 [SEP] 
+0 
+if you are a tequila fan you will not be disappointed .
+tequila_4_4 [SEP] 
+1 
+great beer selection too , something like 50 beers .
+beer selection_1_2 [SEP] beers_8_8 [SEP] 
+1 0 
+not to sound too negative but be wary of the delivary .
+delivary_10_10 [SEP] 
+-1 
+i found the food to be just as good as its owner , da silvano , just much less expensive .
+food_3_3 [SEP] owner_11_11 [SEP] 
+1 1 
+they have homemade pastas of all kinds -- i recommend the gnocchi -- yum !
+homemade pastas_2_3 [SEP] gnocchi_11_11 [SEP] 
+1 1 
+my vegetable risotto was burnt , and infused totally in a burnt flavor .
+vegetable risotto_1_2 [SEP] flavor_12_12 [SEP] 
+-1 -1 
+the main draw of this place is the price .
+price_8_8 [SEP] 
+1 
+how can hope to stay in business with service like this ?
+service_8_8 [SEP] 
+-1 
+but dinner here is never disappointing , even if the prices are a bit over the top .
+dinner_1_1 [SEP] prices_10_10 [SEP] 
+1 -1 
+not only did they have amazing , sandwiches , soup , pizza etc , but their homemade sorbets are out of this world !
+sandwiches_7_7 [SEP] soup_9_9 [SEP] pizza_11_11 [SEP] homemade sorbets_16_17 [SEP] 
+1 1 1 1 
+the homemade guacamole , the unbelievable entree , and thee most amazing deserts .
+homemade guacamole_1_2 [SEP] entree_6_6 [SEP] deserts_12_12 [SEP] 
+1 1 1 
+the sushi is reasonably priced and fresh .
+sushi_1_1 [SEP] priced_4_4 [SEP] 
+1 1 
+save room for deserts - they 're to die for .
+deserts_3_3 [SEP] 
+1 
+best things to order are from the grill -LRB- churrasco and ribs -RRB- .
+grill_7_7 [SEP] churrasco_9_9 [SEP] ribs_11_11 [SEP] 
+1 1 1 
+the traditional italian items are great - cheap and served in a cozy setting .
+traditional italian items_1_3 [SEP] setting_13_13 [SEP] served_9_9 [SEP] 
+1 1 1 
+whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy .
+iced blended mocha_4_6 [SEP] hot white mocha_9_11 [SEP] 
+1 1 
+last tuesday for a late lunch with a friend .
+late lunch_4_5 [SEP] 
+0 
+another friend had to ask 3 times for parmesan cheese .
+parmesan cheese_8_9 [SEP] 
+0 
+our waitress had apparently never tried any of the food , and there was no one to recommend any wine .
+waitress_1_1 [SEP] food_9_9 [SEP] wine_19_19 [SEP] 
+-1 0 0 
+the service was a bit slow and the portions are a bit small so if you are hungry and in a rush , this is not the place for you .
+service_1_1 [SEP] portions_8_8 [SEP] 
+-1 -1 
+the unfortunate lady next to us thought she had ordered a salad -LRB- including asking for salad dressing -RRB- and was instead given a quesedilla .
+salad_11_11 [SEP] salad dressing_16_17 [SEP] quesedilla_24_24 [SEP] 
+0 0 0 
+el nidos one of the best restaurants in new york which i 've ever been to , has a great variety of tasty , mouth watering pizza 's .
+pizza 's_26_27 [SEP] 
+1 
+the service was pretty poor all around , the food was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .
+service_1_1 [SEP] food_9_9 [SEP] cost_17_17 [SEP] 
+-1 -1 -1 
+although i moved uptown i try to stop in as often as possible for the great cheap food and to pay the friendly staff a visit .
+food_17_17 [SEP] staff_23_23 [SEP] 
+1 1 
+i had to wait for my friend at the bar for a few minutes
+bar_9_9 [SEP] 
+0 
+chef vincenzo , always there if you need him , is a real talent and a real roman .
+chef_0_0 [SEP] 
+1 
+if you 're looking to taste some great indian food and want good service , definitely visit curry leaf .
+indian food_8_9 [SEP] service_13_13 [SEP] 
+1 1 
+you must try odessa stew or rabbit stew ; salads - all good ; and kompot is soo refreshing during the hot summer day -LRB- they make it the way my mom does , reminds me of home a lot -RRB- .
+odessa stew_3_4 [SEP] rabbit stew_6_7 [SEP] salads_9_9 [SEP] kompot_15_15 [SEP] 
+1 1 1 1 
+my daughter and i left feeling satisfied -LRB- not stuffed -RRB- and it felt good to know we had a healthy lunch .
+lunch_21_21 [SEP] 
+1 
+when she complained , the waitress said , sorry .
+waitress_5_5 [SEP] 
+0 
+the quality of the meat was on par with your local grocery store .
+quality of the meat_1_4 [SEP] 
+-1 
+they specialize in smoothies and fresh juices .
+smoothies_3_3 [SEP] fresh juices_5_6 [SEP] 
+1 1 
+i recommend the black roasted codfish , it was the best dish of the evening .
+black roasted codfish_3_5 [SEP] dish_11_11 [SEP] 
+1 1 
+the manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .
+waiter_23_23 [SEP] menu_10_10 [SEP] manager_1_1 [SEP] 
+-1 0 0 
+in mi burrito , here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste .
+taste_23_23 [SEP] chicken_9_9 [SEP] 
+-1 -1 
+during busy hrs , i recommend that you make a reservation .
+reservation_10_10 [SEP] 
+0 
+i went to common stock for brunch and i was so impressed .
+brunch_6_6 [SEP] 
+0 
+now called nikki sushi , sushi is ok .
+sushi_5_5 [SEP] 
+0 
+the food is also outstanding and is served quite quickly .
+food_1_1 [SEP] served_7_7 [SEP] 
+1 1 
+from the erbazzone emiliana to the mostarda on the cheese plate , the dishes at this restaurant are all handled with delicate care .
+erbazzone emiliana_2_3 [SEP] mostarda on the cheese plate_6_10 [SEP] dishes_13_13 [SEP] 
+1 1 1 
+the food is delicious and the bar has a great vibe .
+food_1_1 [SEP] bar_6_6 [SEP] vibe_10_10 [SEP] 
+1 1 1 
+there 's candlelight and music .
+candlelight_2_2 [SEP] music_4_4 [SEP] 
+0 0 
+simple healthy unglamorous food cheap .
+food_3_3 [SEP] 
+1 
+it was such a fantastic dining experience , that i returned again the same week .
+dining experience_5_6 [SEP] 
+1 
+to be fair , the food still is good and the service is quick and attentative even though its usually very busy .
+food_5_5 [SEP] service_11_11 [SEP] 
+1 1 
+the place is absolutely adorable and the food is delicious .
+place_1_1 [SEP] food_7_7 [SEP] 
+1 1 
+i ordered the chicken teriyaki and my husband got garlic shrimp .
+chicken teriyaki_3_4 [SEP] garlic shrimp_9_10 [SEP] 
+0 0 
+i 've had better japanese food at a mall food court .
+japanese food_4_5 [SEP] 
+-1 
+the staff members are extremely friendly and even replaced my drink once when i dropped it outside .
+staff members_1_2 [SEP] drink_10_10 [SEP] 
+1 0 
+cool atmosphere but such a let down .
+atmosphere_1_1 [SEP] 
+1 
+the sashimi portion are big enough to appease most people , but i did n't like the fact they used artifical lobster meat .
+sashimi portion_1_2 [SEP] artifical lobster meat_20_22 [SEP] 
+1 -1 
+they have wheat crusted pizza made with really fresh and yummy ingredients .
+wheat crusted pizza_2_4 [SEP] ingredients_11_11 [SEP] 
+1 1 
+had a lovely dinner in this dedicated seafood joint , food was well-prepared and - presented and the service was pleasant and prompt .
+dinner_3_3 [SEP] food_10_10 [SEP] service_18_18 [SEP] 
+1 1 1 
+the icing made this cake , it was fluffy , not ultra sweet , creamy and light .
+cake_4_4 [SEP] 
+1 
+finally let into the store 5 at a time , to buy expensive slices from a harried staff .
+staff_17_17 [SEP] slices_13_13 [SEP] 
+-1 -1 
+we ended up having to just leave because we were essentially being ignored by the wait staff -- even though the rest of the restaurant was largely empty .
+wait staff_15_16 [SEP] 
+-1 
+the wine list is extensive , well priced and covers alot of regions .
+wine list_1_2 [SEP] priced_7_7 [SEP] 
+1 1 
+go here if you want fresh and tasty salads of any type you can imagine .
+salads_8_8 [SEP] 
+1 
+everything about this place is adorable - even the bathroom !
+bathroom_9_9 [SEP] 
+1 
+speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .
+delivers_1_1 [SEP] food_4_4 [SEP] prices_7_7 [SEP] service_11_11 [SEP] repast_17_17 [SEP] 
+1 1 1 1 1 
+they have waiters on the sidewalk trying to pull you in which made us suspicious .
+waiters_2_2 [SEP] 
+0 
+it was our only opportunity to visit and wanted an authentic italian meal .
+italian meal_11_12 [SEP] 
+0 
+it took 100 years for parisi to get around to making pizza -LRB- at least i do n't think they ever made it before this year -RRB- ... but it was worth the wait .
+pizza_11_11 [SEP] 
+1 
+i asked for a simple medium rare steak .
+steak_7_7 [SEP] 
+0 
+generously garnished , organic grilled burgers are the most popular dish , but the jerusalem market-style falafel wraps and mediterranean salads -- layered with beets , goat cheese and walnuts -- are equally scrumptious .
+organic grilled burgers_3_5 [SEP] dish_10_10 [SEP] jerusalem market-style falafel wraps_14_17 [SEP] mediterranean salads -- layered with beets , goat cheese and walnuts_19_29 [SEP] 
+1 1 1 1 
+probably my worst dining experience in new york , and i 'm a former waiter so i know what i 'm talking about .
+dining experience_3_4 [SEP] waiter_14_14 [SEP] 
+-1 0 
+result -LRB- red velvet -RRB- : great texture , soft and velvety , nice hint of cocoa .
+texture_7_7 [SEP] hint of cocoa_14_16 [SEP] 
+1 1 
+ask for the round corner table next to the large window .
+round corner table next to the large window_3_10 [SEP] 
+1 
+their twist on pizza is heatlhy , but full of flavor .
+flavor_10_10 [SEP] twist on pizza_1_3 [SEP] 
+1 1 
+the lack of ac and the fact that there are a million swarming bodies -LRB- although everyone is polite and no one is pushing -RRB- is a slight turn off .
+ac_3_3 [SEP] 
+-1 
+i love the little pie company as much as anyone else who has written reviews , but must discourage anyone from visiting the grand central location due to their rude service from two sales people .
+service_30_30 [SEP] sales people_33_34 [SEP] 
+-1 -1 
+unfortunately , unless you live in the neighborhood , it 's not in a convenient location but is more like a hidden treasure .
+location_15_15 [SEP] 
+-1 
+did n't seem like any effort was made to the display and quality of the food .
+display and quality of the food_10_15 [SEP] 
+-1 
+the food -- though mostly deep-fried -- is simple and satisfying .
+food_1_1 [SEP] 
+1 
+glechik might be way too tiny for a restaurant by russian standards , but it is cozy and the food is simply great .
+food_19_19 [SEP] 
+1 
+the food was excellent - authentic italian cuisine made absolutely fresh .
+food_1_1 [SEP] italian cuisine_6_7 [SEP] 
+1 1 
+at night the atmoshere changes turning into this hidden jewel that is waiting to be discovered .
+atmoshere_3_3 [SEP] 
+1 
+the other times i 've gone it 's romantic date heaven , you can walk in get a booth by the windows , be treated like a vip in a not - crowded place , with great food and service .
+booth by the windows_18_21 [SEP] place_33_33 [SEP] food_37_37 [SEP] service_39_39 [SEP] 
+0 1 1 1 
+i would only go for the coffee which is way better than starbucks or the like .
+coffee_6_6 [SEP] 
+1 
+somewhat disappointing wine list -LRB- only new vintages .
+wine list_2_3 [SEP] vintages_7_7 [SEP] 
+-1 -1 
+if your looking for nasty high priced food with a dash of ghetto scenery cheap bx a$ $ this is the place to be !!
+priced_6_6 [SEP] food_7_7 [SEP] scenery_13_13 [SEP] 
+-1 -1 -1 
+new hamburger with special sauce is ok - at least better than big mac !
+new hamburger with special sauce_0_4 [SEP] big mac_12_13 [SEP] 
+1 -1 
+perfectly al dente pasta , not drowned in sauce -- generous portions .
+pasta_3_3 [SEP] sauce_8_8 [SEP] portions_11_11 [SEP] 
+1 0 1 
+i can understand the prices if it served better food , like some chinese restaurants in midtown / uptown area .
+prices_4_4 [SEP] food_9_9 [SEP] 
+-1 -1 
+service was awful - mostly because staff were overwhelmed on a saturday night .
+service_0_0 [SEP] staff_6_6 [SEP] 
+-1 -1 
+to the owners ; good job guys , this place is a keeper !
+owners_2_2 [SEP] 
+1 
+and the owner is simply lovely and friendly .
+owner_2_2 [SEP] 
+1 
+this little place is wonderfully warm welcoming .
+place_2_2 [SEP] 
+1 
+perfect for a quick meal .
+meal_4_4 [SEP] 
+1 
+has the warmth of a family local yet it is a great place to watch sporting events .
+place_12_12 [SEP] 
+1 
+the service was great , and they have a whole great deal for birthdays .
+service_1_1 [SEP] 
+1 
+the staff is 100 % italian and the food is as authentic as it gets .
+staff_1_1 [SEP] food_8_8 [SEP] 
+1 1 
+my only complaint might be the fortune cookies - i 've never had a cookie predict bad luck for me before i visited kar .
+fortune cookies_6_7 [SEP] cookie_14_14 [SEP] 
+-1 -1 
+good for a quick sushi lunch .
+sushi lunch_4_5 [SEP] 
+1 
+have a mojito and sit in the back patio .
+mojito_2_2 [SEP] back patio_7_8 [SEP] 
+1 1 
+the service was dreadfully slow -LRB- the place was only half full -RRB- and a smile would have been nice ...
+service_1_1 [SEP] 
+-1 
+i went this past saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes .
+meal_9_9 [SEP] braised lamb shank with mashed potatoes_14_19 [SEP] 
+1 1 
+the waitress came by to pick up the soy sauce while we were eating our lunch !!!!!
+waitress_1_1 [SEP] soy sauce_8_9 [SEP] lunch_15_15 [SEP] 
+-1 0 0 
+so we sat at the bar , the bartender did n't seem like he wanted to be there .
+bar_5_5 [SEP] bartender_8_8 [SEP] 
+0 -1 
+i reccomend the fried pork dumplings , the orange chicken/beef , and the fried rice .
+fried pork dumplings_3_5 [SEP] orange chicken/beef_8_9 [SEP] fried rice_13_14 [SEP] 
+1 1 1 
+you will not be dissapointed by any of the choices in the menu .
+menu_12_12 [SEP] 
+1 
+the french fries -- with the kalmata dip were terrific !
+french fries -- with the kalmata dip_1_7 [SEP] 
+1 
+would you ever believe that when you complain about over an hour wait , when they tell you it will be 20-30 minutes , the manager tells the bartender to spill the drinks you just paid for ?
+wait_12_12 [SEP] manager_25_25 [SEP] bartender_28_28 [SEP] drinks_32_32 [SEP] 
+-1 -1 0 0 
+the boutique selection of wines covers a wide variety without being imposeing .
+boutique selection of wines_1_4 [SEP] 
+0 
+they also have a great assortment of wraps if your not in the mood for traditional mediterranean fare .
+assortment of wraps_5_7 [SEP] traditional mediterranean fare_15_17 [SEP] 
+1 0 
+fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .
+fresh veggies_0_1 [SEP] middle eastern spreads_6_8 [SEP] cheese_10_10 [SEP] falafel_12_12 [SEP] soup_14_14 [SEP] fish_16_16 [SEP] rice_18_18 [SEP] root vegetables_20_21 [SEP] rice medley_24_25 [SEP] spinach thing_28_29 [SEP] lamb kebabs_31_32 [SEP] cheese baclava_34_35 [SEP] fooood_39_39 [SEP] 
+1 1 1 1 1 1 1 1 1 1 1 1 1 
+disappointingly , their wonderful saketini has been taken off the bar menu .
+saketini_4_4 [SEP] bar menu_10_11 [SEP] 
+1 -1 
+in short the black sheep distinguishes itself from the midtown pub herd with a look that 's a mix of sports-bar butch and ornate kitsch .
+look_14_14 [SEP] 
+-1 
+i would definitely go back -- if only for some of those exotic martinis on the blackboard .
+martinis_13_13 [SEP] 
+1 
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people .
+chairs_14_14 [SEP] table_20_20 [SEP] 
+0 0 
+the happy hour is so cheap , but that does not reflect the service or the atmosphere .
+happy hour_1_2 [SEP] service_13_13 [SEP] atmosphere_16_16 [SEP] 
+1 1 1 
+after waiting for almost an hour , the waiter brusquely told us he 'd forgotten to give the kitchen our order .
+waiter_8_8 [SEP] kitchen_18_18 [SEP] waiting_1_1 [SEP] 
+-1 0 -1 
+with all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere .
+quaility_22_22 [SEP] atmosphere_24_24 [SEP] 
+1 1 
+a mix of students and area residents crowd into this narrow , barely there space for its quick , tasty treats at dirt-cheap prices .
+space_14_14 [SEP] prices_23_23 [SEP] treats_20_20 [SEP] 
+-1 1 1 
+give it a try , menu is typical french but varied .
+menu_5_5 [SEP] 
+0 
+it gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice .
+seats_10_10 [SEP] 
+1 
+but for the value , it was a great affordable spot to enjoy a fun night out with small group .
+value_3_3 [SEP] 
+1 
+the negative reviews on city search are probably from jealous competing restaurants who realize they ca n't compete with temple 's entire positive attitude about the proper way to treat their customers and deliver top quality food .
+food_36_36 [SEP] attitude_23_23 [SEP] 
+1 1 
+we ordered a glass of wine and were finished eating and paying before the wine came .
+glass of wine_3_5 [SEP] 
+0 
+it was good , but none of the flavors wow .
+flavors_8_8 [SEP] 
+0 
+overall , this is a nice place to take a few friends to hang out at and the service is excellent .
+place_6_6 [SEP] service_18_18 [SEP] 
+1 1 
+food is excellent quality for a good restaurant price .
+food_0_0 [SEP] price_8_8 [SEP] 
+1 1 
+for about eleven bucks you get a gigantic burrito -LRB- or tacos -RRB- , margarita , and dessert .
+burrito_8_8 [SEP] tacos_11_11 [SEP] margarita_14_14 [SEP] dessert_17_17 [SEP] 
+1 1 0 0 
+the space is traditional in feel .
+space_1_1 [SEP] 
+0 
+the restaurant was completely empty , but she gave me a dirty look and asked , no reservations ?
+reservations_17_17 [SEP] 
+0 
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .
+food_1_1 [SEP] interior_9_9 [SEP] owners_16_16 [SEP] dining_35_35 [SEP] 
+-1 -1 -1 0 
+good service , great food , good value , and never have to wait in line !
+service_1_1 [SEP] food_4_4 [SEP] value_7_7 [SEP] wait_13_13 [SEP] 
+1 1 1 1 
+offerings like hot cakes and the egg mcmuffin sandwich are available for breakfast .
+egg mcmuffin sandwich_6_8 [SEP] hot cakes_2_3 [SEP] breakfast_12_12 [SEP] 
+0 0 0 
+i have been going to this restaurant for years , in the past the service was average and the food inconsistant .
+service_14_14 [SEP] food_19_19 [SEP] 
+0 -1 
+the music was fascinating , but left room for conversation , and the bartender made superb drinks .
+music_1_1 [SEP] bartender_13_13 [SEP] drinks_16_16 [SEP] 
+1 1 1 
+rice dishes and noodle dishes rarely exceed $ 5 and add on a refreshing ice drink for $ 2 and you 're set for the night !
+rice dishes_0_1 [SEP] noodle dishes_3_4 [SEP] ice drink_14_15 [SEP] 
+1 1 1 
+cuisine is billed as asian fusion - does n't meet the bill .
+cuisine_0_0 [SEP] bill_11_11 [SEP] asian fusion_4_5 [SEP] billed_2_2 [SEP] 
+-1 -1 0 -1 
+creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary - orange sauce are unexpected elements on an otherwise predictable bistro menu .
+dishes_1_1 [SEP] king crab salad with passion fruit vinaigrette_3_9 [SEP] fettuccine with grilled seafood in a rosemary - orange sauce_11_20 [SEP] bistro menu_28_29 [SEP] 
+1 1 1 0 
+dishes denoted as `` roy 's classics '' -LRB- marked on the menu with asterisks -RRB- are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .
+dishes_0_0 [SEP] `` roy 's classics ''_3_7 [SEP] menu_12_12 [SEP] recipes_18_18 [SEP] macadamia-crusted mahi mahi_22_24 [SEP] sweet honey-mustard beef short ribs_28_32 [SEP] 
+1 1 0 1 1 1 
+the cold sesame noodles , which are a freebie when you order $ 10 + , are delectable .
+cold sesame noodles_1_3 [SEP] 
+1 
+i came to fresh expecting a great meal , and all i got was marginally so-so food served in a restaurant that was just so freezing we could n't enjoy eating .
+food_16_16 [SEP] meal_7_7 [SEP] served_17_17 [SEP] 
+-1 -1 0 
+the lone argentine chorizo appetizer at $ 8.95 was a heavy fennel flavored italian sausage like the ones that sell for $ 2.99 / lb at the store .
+argentine chorizo appetizer_2_4 [SEP] fennel flavored italian sausage_11_14 [SEP] 
+-1 -1 
+i went to swiftys with some friends of the family and we had a very nice dinner , but nothing amazing .
+dinner_16_16 [SEP] 
+1 
+best chinese on the upper east , prompt delivery , good value .
+delivery_8_8 [SEP] value_11_11 [SEP] 
+1 1 
+most of the sandwiches are made with soy mayonaise which is actually pretty good .
+sandwiches_3_3 [SEP] soy mayonaise_7_8 [SEP] 
+1 1 
+i went in one day asking for a table for a group and was greeted by a very rude hostess .
+hostess_19_19 [SEP] table_8_8 [SEP] 
+-1 0 
+it 's worthwhile to take a cab to chelsea just for an awesome dinner at my chelsea .
+dinner_13_13 [SEP] 
+1 
+not only is the food authentic , but the staff here are practically off-the-boat , they are young and hip and know what they are doing when it comes to food and wine .
+food_4_4 [SEP] staff_9_9 [SEP] food_30_30 [SEP] wine_32_32 [SEP] 
+1 1 1 1 
+it has good music , nice tapas , an interesting selection of wines -LRB- primarily spanish -RRB- and a lowkey hip neighborhood clientele .
+music_3_3 [SEP] tapas_6_6 [SEP] selection of wines -LRB- primarily spanish -RRB-_10_16 [SEP] clientele_22_22 [SEP] 
+1 1 1 1 
+the food is great , i love their dumplings , cold sesame noodles , chicken and shrimp dishs .
+food_1_1 [SEP] dumplings_8_8 [SEP] cold sesame noodles_10_12 [SEP] chicken_14_14 [SEP] shrimp dishs_16_17 [SEP] 
+1 1 1 1 1 
+and the food , well the food will keep you coming back .
+food_2_2 [SEP] food_6_6 [SEP] 
+1 1 
+waiting three hours before getting our entrees was a treat as well .
+entrees_6_6 [SEP] waiting_0_0 [SEP] 
+0 -1 
+it 's the conversations that make this a fun place to be .
+place_9_9 [SEP] 
+1 
+my gf 's duck confitte was very solid as well , although i have little base of reference .
+duck confitte_3_4 [SEP] 
+1 
+the wine list was superb , our tapas delightful , and the quiet atmosphere perfect for good conversation .
+wine list_1_2 [SEP] tapas_7_7 [SEP] atmosphere_13_13 [SEP] 
+1 1 1 
+you can eat gourmet food at a fast food price .
+price_9_9 [SEP] food_4_4 [SEP] 
+1 1 
+i 've eaten at all three locations and i always love , love the food , the service is always wonderful and the prices are really reasonable .
+food_14_14 [SEP] service_17_17 [SEP] prices_23_23 [SEP] 
+1 1 1 
+not because i was pregnant , but the food here is always delicious .
+food_8_8 [SEP] 
+1 
+had a great meal there this weekend before heading to the movies !
+meal_3_3 [SEP] 
+1 
+we had a birthday party here recently and the food and service was amazing .
+food_9_9 [SEP] service_11_11 [SEP] 
+1 1 
+the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there 's also a couple of non-meat alternatives .
+dinner menu_1_2 [SEP] entrees_8_8 [SEP] seafood_12_12 [SEP] steaks_15_15 [SEP] non-meat alternatives_23_24 [SEP] 
+1 1 1 1 0 
+this place has the strangest menu and the restaurants tries too hard to make fancy food .
+menu_5_5 [SEP] food_15_15 [SEP] 
+-1 -1 
+the appetizers are ok , but the service is slow .
+appetizers_1_1 [SEP] service_7_7 [SEP] 
+0 -1 
+the food - not worth the price .
+food_1_1 [SEP] price_6_6 [SEP] 
+-1 -1 
+what can you say about a place where the waitress brings out the wrong entree , then verbally assaults your 80 year old grandmother and gives her lip about sending it back -LRB- which she did politely , by the way -RRB- .
+waitress_9_9 [SEP] entree_14_14 [SEP] 
+-1 0 
+the prices are not terrible .
+prices_1_1 [SEP] 
+1 
+15 % gratuity automatically added to the bill .
+bill_7_7 [SEP] gratuity_2_2 [SEP] 
+-1 -1 
+the halibut cheek appetizer came with a generous portion of foie gras , but that 's about the only positive thing i can say about the meal .
+halibut cheek appetizer_1_3 [SEP] portion of foie gras_8_11 [SEP] 
+0 1 
+food is excellent and they also have empenadas and plaintains which are good for an afternoon snack .
+food_0_0 [SEP] empenadas_7_7 [SEP] plaintains_9_9 [SEP] afternoon snack_15_16 [SEP] 
+1 1 1 1 
+both a number of the appetizer and pasta specials were amazing .
+pasta specials_7_8 [SEP] appetizer_5_5 [SEP] 
+1 1 
+all-time favorites include the big mac , chicken mcnuggets , filet-o-fish sandwich and mcdonald 's famous french fries ; lighter options like entree-sized salads are also available .
+big mac_4_5 [SEP] chicken mcnuggets_7_8 [SEP] filet-o-fish sandwich_10_11 [SEP] mcdonald 's famous french fries_13_17 [SEP] entree-sized salads_22_23 [SEP] 
+1 1 1 1 0 
+it 's a basic pizza joint , not much to look at , but the pizza is what i go for .
+pizza_15_15 [SEP] 
+1 
+tables are close , so you better be comfortable bumping elbows with other patrons .
+tables_0_0 [SEP] 
+-1 
+was her monday for lunch - was working on a film in the area - and found this rare jewel .
+lunch_4_4 [SEP] 
+0 
+not too much so , but enough that there 's a great scene .
+scene_12_12 [SEP] 
+1 
+dug the blue bar area too .
+blue bar area_2_4 [SEP] 
+1 
+i got the opportunity to dine at your establishment again a few weeks ago , i was in your upstrairs dining area .
+upstrairs dining area_19_21 [SEP] 
+0 
+meat-phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .
+veggie burger_7_8 [SEP] chickpeas_16_16 [SEP] carrots_18_18 [SEP] vegetables_21_21 [SEP] spices_23_23 [SEP] 
+1 1 1 1 1 
+at peak times , the restaurant is overcrowded and tables are uncomfortably close .
+tables_9_9 [SEP] 
+-1 
+the service was on point - what else you would expect from a ritz ?
+service_1_1 [SEP] 
+1 
+menus feature seasonal picks , like sweet corn-foie gras brulee .
+menus_0_0 [SEP] sweet corn-foie gras brulee_6_9 [SEP] 
+0 0 
+innovations are just as assured , from the simple carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon , beautifully matched with a bright green spinach-vodka sauce .
+carinthia cheese ravioli with wild mushrooms_9_14 [SEP] caviar-topped sturgeon_17_18 [SEP] green spinach-vodka sauce_25_27 [SEP] 
+1 1 1 
+and these are not small , wimpy fast food type burgers - these are real , full sized patties .
+burgers_10_10 [SEP] patties_18_18 [SEP] 
+1 1 
+there restaurant is very casual , but perfect for lunch , and their delivery service is always very fast .
+lunch_9_9 [SEP] delivery service_13_14 [SEP] 
+0 1 
+chinatown definitely has better quality with cheaper prices .
+quality_4_4 [SEP] prices_7_7 [SEP] 
+1 1 
+i had to flag down a third staff person for a fork ... so now it 's goodbye little rude pie company .
+staff person_7_8 [SEP] fork_11_11 [SEP] 
+0 0 
+go with the specials , and stay away from the salmon .
+specials_3_3 [SEP] salmon_10_10 [SEP] 
+1 -1 
+the pastas were pretty good .
+pastas_1_1 [SEP] 
+1 
+atmosphere is a bore .
+atmosphere_0_0 [SEP] 
+-1 
+the decor is what initially got me in the door .
+decor_1_1 [SEP] 
+1 
+the wait staff was very attentive and polite .
+wait staff_1_2 [SEP] 
+1 
+great restaurant , and even greater food !
+food_6_6 [SEP] 
+1 
+the dishes are remarkably tasty and such a cozy and intimate place !
+dishes_1_1 [SEP] place_11_11 [SEP] 
+1 1 
+save room for the desserts ! ; - -RRB-
+desserts_4_4 [SEP] 
+1 
+i love the simplicity and respect which was given to the food , as well the staff was freindly and knowledgable .
+food_11_11 [SEP] staff_16_16 [SEP] 
+1 1 
+service was good and so was the atmosphere .
+service_0_0 [SEP] atmosphere_7_7 [SEP] 
+1 1 
+my date and i both ordered the branzini and both felt the fish was very average .
+branzini_7_7 [SEP] fish_12_12 [SEP] 
+0 -1 
+the food was good , the service prompt , and the price very reasonable .
+food_1_1 [SEP] service_6_6 [SEP] price_11_11 [SEP] 
+1 1 1 
+wonderful menu , warm inviting ambiance , great service the food keeps me coming back !
+menu_1_1 [SEP] ambiance_5_5 [SEP] service_8_8 [SEP] food_10_10 [SEP] 
+1 1 1 1 
+great food , good wine and an excellent host .
+food_1_1 [SEP] wine_4_4 [SEP] host_8_8 [SEP] 
+1 1 1 
+pizzas were excellent in addition to appetizers and main courses .
+pizzas_0_0 [SEP] appetizers_6_6 [SEP] main courses_8_9 [SEP] 
+1 1 1 
+definitely try the calamari , any pasta , or even the sliced steak entree .
+calamari_3_3 [SEP] pasta_6_6 [SEP] sliced steak entree_11_13 [SEP] 
+1 1 1 
+the caeser salad was great .
+caeser salad_1_2 [SEP] 
+1 
+the fried calamari was even better !
+fried calamari_1_2 [SEP] 
+1 
+the food was good overall .
+food_1_1 [SEP] 
+1 
+the food was outstanding and the service was tops .
+food_1_1 [SEP] service_6_6 [SEP] 
+1 1 
+the portions are very large and the service is fantastic !!
+portions_1_1 [SEP] service_7_7 [SEP] 
+1 1 
+i recomend the chicken milanese .
+chicken milanese_3_4 [SEP] 
+1 
+excellent tapas at great prices , romantic , small but not overly crowed , excellent
+tapas_1_1 [SEP] prices_4_4 [SEP] 
+1 1 
+the chocolate raspberry cake is heavenly - not too sweet , but full of flavor .
+chocolate raspberry cake_1_3 [SEP] flavor_14_14 [SEP] 
+1 1 
+our waiter was helpful and charming , the food was perfect , and the wine was good , too .
+waiter_1_1 [SEP] food_8_8 [SEP] wine_14_14 [SEP] 
+1 1 1 
+i have never had a bad meal -LRB- or bad service -RRB- @ pigalle .
+meal_6_6 [SEP] service_10_10 [SEP] 
+1 1 
+best hot dogs in the tri-state area .
+hot dogs_1_2 [SEP] 
+1 
+the service was very attentive and very generous .
+service_1_1 [SEP] 
+1 
+we had tons of great food , wine , and desserts .
+food_5_5 [SEP] wine_7_7 [SEP] desserts_10_10 [SEP] 
+1 1 1 
+really lovely dining experience in the midst of buzzing midtown area .
+dining experience_2_3 [SEP] 
+1 
+the food really is n't very good and the service is terrible .
+food_1_1 [SEP] service_9_9 [SEP] 
+-1 -1 
+not only do they have the best escargot in town , they always try to accomodate our toddler .
+escargot_7_7 [SEP] 
+1 
+between my guest and i , we sampled at least 80 % of the menu , and they were all hits .
+menu_14_14 [SEP] 
+1 
+the deco and ambiance was really romantic .
+deco_1_1 [SEP] ambiance_3_3 [SEP] 
+1 1 
+just go in and sample the greatest french food west of daniel .
+french food_7_8 [SEP] 
+1 
+for someone who used to hate indian food , baluchi 's has changed my mid .
+indian food_6_7 [SEP] 
+1 
+finally a curry that i can eat , enjoy and not suffer from gastritis from 3 hours later .
+curry_2_2 [SEP] 
+1 
+all are great - poori , naan , paratha all fresh .
+poori_4_4 [SEP] naan_6_6 [SEP] paratha_8_8 [SEP] 
+1 1 1 
+try the homemade breads .
+homemade breads_2_3 [SEP] 
+1 
+this place has beautiful sushi , and it 's delicious cheap .
+sushi_4_4 [SEP] 
+1 
+it also has lots of other korean dishes that are affordable and just as yummy .
+korean dishes_6_7 [SEP] 
+1 
+i went for restaurant week and ordered off the prix fixe menu
+prix fixe menu_9_11 [SEP] 
+0 
+not only was the waiter efficient and courteous , but also extremely helpful .
+waiter_4_4 [SEP] 
+1 
+this place is classy , chic , the service is warm and hospitable , and the food is outstanding .
+place_1_1 [SEP] service_8_8 [SEP] food_16_16 [SEP] 
+1 1 1 
+great burgers , grilled cheeses and french fries .
+burgers_1_1 [SEP] grilled cheeses_3_4 [SEP] french fries_6_7 [SEP] 
+1 1 1 
+the yellowfin tuna and calf 's liver are my favorites !
+yellowfin tuna_1_2 [SEP] calf 's liver_4_6 [SEP] 
+1 1 
+sushi so fresh that it crunches in your mouth .
+sushi_0_0 [SEP] 
+1 
+but make sure you have enough room on your credit card as the bill will leave a big dent in your wallet .
+bill_13_13 [SEP] 
+-1 
+they bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak -LRB- i tried them all -RRB- .
+steak_22_22 [SEP] choices of sauces_17_19 [SEP] sauce cart_3_4 [SEP] table_8_8 [SEP] 
+0 1 0 0 
+not only was the sushi fresh , they also served other entrees allowed each guest something to choose from and we all left happy -LRB- try the duck !
+sushi_4_4 [SEP] duck_27_27 [SEP] entrees_11_11 [SEP] 
+1 1 0 
+good variety but nothing surprising .
+variety_1_1 [SEP] 
+1 
+after i paid for my purchase , i noticed they had not given me utensils so i could eat my pie .
+utensils_14_14 [SEP] pie_20_20 [SEP] 
+0 0 
+likewise if you like really thin crust or really big slices then nick and joe 's may not be your favorite .
+thin crust_5_6 [SEP] slices_10_10 [SEP] 
+-1 -1 
+no green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .
+green beans_1_2 [SEP] egg_5_5 [SEP] anchovy dressing_8_9 [SEP] nicoise olives_12_13 [SEP] red onion_16_17 [SEP] 
+0 0 0 0 0 
+build a meal with side orders like amazin ' greens salads , buffalo chicken kickers and cinna stix .
+meal_2_2 [SEP] amazin ' greens salads_7_10 [SEP] buffalo chicken kickers_12_14 [SEP] cinna stix_16_17 [SEP] side orders_4_5 [SEP] 
+0 0 0 0 0 
+thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra-thick chocolate frosty .
+fries_1_1 [SEP] meaty chili_3_4 [SEP] stuffed baked potatoes_6_8 [SEP] menu_12_12 [SEP] chocolate frosty_19_20 [SEP] 
+0 0 0 0 1 
+i always find myself asking the waiter to make something bland and different than what is on the menu .
+waiter_6_6 [SEP] menu_18_18 [SEP] 
+0 0 
+good cake but : it was not the best cake i 've ever had , and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees .
+cake_9_9 [SEP] employees_32_32 [SEP] 
+-1 -1 
+the closest that i got was the cherry marscapone , but they were out of it that day .
+cherry marscapone_7_8 [SEP] 
+0 
+the homage to india is most evident in the delectable roti canai appetizer , a fried pancake served with pungent curry dipping sauce , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet-and-sour .
+roti canai appetizer_10_12 [SEP] mango chicken_26_27 [SEP] fried pancake served with pungent curry dipping sauce_15_22 [SEP] 
+1 1 1 
+it does n't look like much on the outside , but the minute you walk inside , it 's a whole other atmosphere .
+outside_8_8 [SEP] atmosphere_22_22 [SEP] 
+-1 1 
+the ground chickpea soup we sampled as a starter tasted somewhat thin .
+ground chickpea soup_1_3 [SEP] starter_8_8 [SEP] 
+-1 0 
+we requested they re-slice the sushi , and it was returned to us in small cheese-like cubes .
+sushi_5_5 [SEP] 
+-1 
+the service , however , is a peg or two below the quality of food -LRB- horrible bartenders -RRB- , and the clientele , for the most part , are rowdy , loud-mouthed commuters -LRB- this could explain the bad attitudes from the staff -RRB- getting loaded for an ac/dc concert or a knicks game .
+service_1_1 [SEP] quality of food_12_14 [SEP] bartenders_17_17 [SEP] clientele_22_22 [SEP] staff_43_43 [SEP] 
+-1 1 -1 -1 -1 
+if you 're in the neighborhood , definitely stop by for a great meal .
+meal_13_13 [SEP] 
+1 
+unfortunately , with our show tickets , we did n't have time to sample any desserts .
+desserts_15_15 [SEP] 
+0 
+make more tables - perhaps a rooftop bar ?
+tables_2_2 [SEP] rooftop bar_6_7 [SEP] 
+-1 0 
+the decoration was feeling like we was on the cairo , actually the street is part of that adventure .
+decoration_1_1 [SEP] 
+1 
+although small , it has beautiful ambience , excellent food -LRB- the catfish is delicious - if ya do n't mind it a lil salty -RRB- and attentive service .
+ambience_6_6 [SEP] food_9_9 [SEP] catfish_12_12 [SEP] service_28_28 [SEP] 
+1 1 1 1 
+i did n't go there for food so i ca n't comment .
+food_6_6 [SEP] 
+0 
+stick to the items the place does best , brisket , ribs , wings , cajun shrimp is good , not great .
+brisket_9_9 [SEP] ribs_11_11 [SEP] wings_13_13 [SEP] cajun shrimp_15_16 [SEP] 
+1 1 1 0 
+hip boutiques and bars on ludlow add to the artsy , laid-back atmosphere at this israeli-style takeout and eat-in burger joint .
+atmosphere_12_12 [SEP] 
+1 
+young neighborhood trendies graze at the counter during the day , while chic , art-house drinkers with heavy doses of the munchies pile in late at night .
+counter_6_6 [SEP] 
+0 
+bring your date and a bottle of wine !
+bottle of wine_5_7 [SEP] 
+0 
+my chelsea 's impressive and creative menu includes modern , westernized japanese dishes such as foie gras unagi napolean , jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .
+menu_6_6 [SEP] japanese dishes_11_12 [SEP] foie gras unagi napolean_15_18 [SEP] jap style hamburger steak_20_23 [SEP] spicy cod roe spaghetti_25_28 [SEP] black cod with miso base_30_34 [SEP] rack of lamb in black truffle sauce_37_43 [SEP] 
+1 0 0 0 0 0 0 
+his food is excellent -LRB- and not expensive by nyc standards - no entrees over $ 30 , most appetizers $ 12 to 14 -RRB- .
+food_1_1 [SEP] appetizers_19_19 [SEP] entrees_13_13 [SEP] 
+1 1 1 
+the food is consistant and good but how it got name best diner in manhattan is beyond me .
+food_1_1 [SEP] 
+1 
+the pasta primavera was outstanding as well , lots of fresh veggies .
+pasta primavera_1_2 [SEP] fresh veggies_10_11 [SEP] 
+1 1 
+do n't get me wrong - sushi was good , just not fantastic .
+sushi_6_6 [SEP] 
+1 
+being puerto rican i know a thing or two about flan and this place serves one of the best -LRB- i hope mom does n't read this ! -RRB- .
+flan_10_10 [SEP] 
+1 
+been to the one in brooklyn for over 25 years , now i dont have to go over the bridge for the best pizza ... hanx
+pizza_23_23 [SEP] 
+1 
+had dinner here on a friday and the food was great .
+dinner_1_1 [SEP] food_8_8 [SEP] 
+0 1 
+we recently spent new year 's eve at the restaurant , and had a great experience , from the wine to the dessert menu .
+wine_19_19 [SEP] dessert menu_22_23 [SEP] 
+1 1 
+highly recommended ... as stated , i have n't dined * in * the restaurant but stopped by there to pick up takeout and it seems a very relaxing place ; also , the bar looks nice .
+place_29_29 [SEP] bar_34_34 [SEP] takeout_22_22 [SEP] 
+1 1 0 
+the ambiance was fine , a little loud but still nice and romantic .
+ambiance_1_1 [SEP] 
+1 
+but , the filet mignon was not very good at all cocktail hour includes free appetizers -LRB- nice non-sushi selection -RRB- .
+cocktail hour_11_12 [SEP] filet mignon_3_4 [SEP] non-sushi selection_18_19 [SEP] appetizers_15_15 [SEP] 
+1 -1 1 1 
+it took about 2 1/2 hours to be served our 2 courses .
+courses_11_11 [SEP] served_8_8 [SEP] 
+0 -1 
+who said go when the place is quiet during the day ?
+place_5_5 [SEP] 
+0 
+can be a bit busy around peak times because of the size .
+size_11_11 [SEP] 
+-1 
+i was on jury duty , rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade .
+chicken tacos_25_26 [SEP] hibiscus lemonade_28_29 [SEP] place_22_22 [SEP] 
+1 1 1 
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine .
+place_1_1 [SEP] soup_15_15 [SEP] french dish_18_19 [SEP] glass of wine_22_24 [SEP] 
+1 0 0 0 
+very nice touch that very much fits the place .
+place_8_8 [SEP] 
+1 
+however , there is just something so great about being outdoors , in great landscaping , enjoying a casual drink that makes going to this place worthwhile .
+casual drink_18_19 [SEP] outdoors_10_10 [SEP] place_25_25 [SEP] 
+1 1 1 
+we were seated promptly in close proximity to the dance floor .
+dance floor_9_10 [SEP] 
+0 
+if you are here as a pre-show meal , hop in a cab and take the extra 10 minutes to go to the uptown location .
+pre-show meal_6_7 [SEP] 
+0 
+the comments about fried foods is correct -LRB- below -RRB- but the other dishes , including the lamb entree and many of the salads -LRB- avocado shrimp -RRB- were quite good .
+fried foods_3_4 [SEP] dishes_13_13 [SEP] lamb entree_17_18 [SEP] salads -LRB- avocado shrimp -RRB-_23_27 [SEP] 
+-1 1 1 1 
+slow service , but when you 're hanging around with groups of 10 or 20 , who really notices ?
+service_1_1 [SEP] 
+-1 
+the sauce is excellent -LRB- very fresh -RRB- with dabs of real mozzarella .
+dabs of real mozzarella_9_12 [SEP] sauce_1_1 [SEP] 
+0 1 
+do n't ever bother - the drinks were awful , but it was the people who work there that really made this the worst experience at dining .
+drinks_6_6 [SEP] people_14_14 [SEP] dining_26_26 [SEP] 
+-1 -1 -1 
+the room is a little plain , but it 's difficult to make such a small place exciting and i would not suggest that as a reason not to go .
+room_1_1 [SEP] place_16_16 [SEP] 
+-1 -1 
+prices even outside of restaurant week were great .
+prices_0_0 [SEP] 
+1 
+a small , outdoor eating area makes for a private , comfortable space to study alone or meet up with friends .
+space_12_12 [SEP] outdoor eating area_3_5 [SEP] 
+1 1 
+and all the -LRB- female -RRB- servers are cute too , which is always nice .
+-LRB- female -RRB- servers_3_6 [SEP] 
+1 
+the best dessert , a chocolate and peanut butter tart , is n't particularly hawaiian , but it 's a small world when it comes to sweets .
+dessert_2_2 [SEP] chocolate and peanut butter tart_5_9 [SEP] sweets_26_26 [SEP] 
+1 1 0 
+for an appetizer , their calamari is a winner .
+appetizer_2_2 [SEP] calamari_5_5 [SEP] 
+0 1 
+satay is one of those favorite haunts on washington where the service and food is always on the money .
+service_11_11 [SEP] food_13_13 [SEP] 
+1 1 
+after dinner i heard music playing and discovered that there is a lounge downstairs .
+dinner_1_1 [SEP] music_4_4 [SEP] lounge_12_12 [SEP] 
+0 0 0 
+the room is a gorgeous , bi-level space and the long bar perfect for a drink .
+room_1_1 [SEP] bi-level space_6_7 [SEP] long bar_10_11 [SEP] drink_15_15 [SEP] 
+1 1 1 0 
+two complaints - their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .
+appetizer selection_4_5 [SEP] mozzarella sticks_15_16 [SEP] menu_19_19 [SEP] 
+-1 0 -1 
+i was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party .
+waitstaff_10_10 [SEP] service_32_32 [SEP] 
+1 1 
+the chicken and falafel platters were nondescript combinations with fresh leaf salad .
+chicken and falafel platters_1_4 [SEP] fresh leaf salad_9_11 [SEP] 
+0 0 
+the atmosphere takes you to that place , the place many dream of .
+atmosphere_1_1 [SEP] 
+1 
+several times and put up with the waiters ' bad manners , knowing that their job is n't easy .
+waiters_7_7 [SEP] 
+-1 
+the service is great -LRB- maybe even borderline nagging but at least you get attention -RRB- , the desserts are excellent and the coffee is so very good ...
+desserts_18_18 [SEP] coffee_23_23 [SEP] 
+1 1 
+they are served on focacchia bread and are to die for .
+served_2_2 [SEP] focacchia bread_4_5 [SEP] 
+0 0 
+while the smoothies are a little big for me , the fresh juices are the best i have ever had !
+smoothies_2_2 [SEP] fresh juices_11_12 [SEP] 
+-1 1 
+the food is just okay , and it 's almost not worth going unless you 're getting the pialla , which is the only dish that 's really good .
+pialla_18_18 [SEP] dish_24_24 [SEP] 
+1 1 
+the guac is fresh , yet lacking flavor , we like to add our fresh salsa into it .
+fresh salsa_14_15 [SEP] flavor_7_7 [SEP] 
+0 -1 
+the new menu has a few creative items , they were smart enough to keep some of the old favorites -LRB- but they raised the prices -RRB- , the staff is friendly most of the time , but i must agree with the person that wrote about their favorite words : no , ca n't , sorry ... , boy , they wo n't bend the rules for anyone .
+prices_25_25 [SEP] new menu_1_2 [SEP] 
+-1 1 
+it ' only open for lunch but the food is so good !
+lunch_5_5 [SEP] food_8_8 [SEP] 
+0 1 
+if you like seafood and/or greek food you will love this place though it is not limited to just these things .
+seafood_3_3 [SEP] greek food_5_6 [SEP] 
+1 1 
+'' the menu includes pub fare -- burgers , steaks and shepherds pie -- and even a portabella lasagna for those black sheep known as `` vegetarians .
+menu_2_2 [SEP] burgers_7_7 [SEP] steaks_9_9 [SEP] shepherds pie_11_12 [SEP] portabella lasagna_17_18 [SEP] pub fare_4_5 [SEP] 
+0 0 0 0 0 0 
+how can they survive serving mediocre food at exorbitant prices ?!
+food_6_6 [SEP] prices_9_9 [SEP] 
+0 -1 
+the food was mediocre and the service was severely slow .
+service_6_6 [SEP] food_1_1 [SEP] 
+-1 0 
+i have eaten here on a different occasion - the food is mediocre for the prices .
+food_10_10 [SEP] prices_15_15 [SEP] 
+0 -1 
+i 'm looking forward to going back soon and eventually trying most everything on the menu !
+menu_15_15 [SEP] 
+1 
+i just had my first visit to this place and ca n't wait to go back and slowly work my way through the menu .
+menu_23_23 [SEP] 
+0 
+i asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter .
+waiter_20_20 [SEP] meal_8_8 [SEP] 
+-1 0 
+i stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk .
+brunch_5_5 [SEP] vegan cranberry pancakes_10_12 [SEP] rice milk_15_16 [SEP] 
+0 0 0 
+sweet irish bartender is always happy and able to bring a smile to my friends a my face .
+bartender_2_2 [SEP] 
+1 
+its good to go there for drinks if you do n't want to get drunk because you 'll be lucky if you can get one drink an hour the service is so bad .
+service_29_29 [SEP] drink_25_25 [SEP] drinks_6_6 [SEP] 
+-1 0 0 
+anyway , the owner was fake .
+owner_3_3 [SEP] 
+-1 
+owner is pleasant and entertaining .
+owner_0_0 [SEP] 
+1 
+i have never in my life sent back food before , but i simply had to , and the waiter argued with me over this .
+food_8_8 [SEP] waiter_19_19 [SEP] 
+-1 -1 
+although the restaurant itself is nice , i prefer not to go for the food .
+food_14_14 [SEP] 
+-1 
+creamy appetizers -- taramasalata , eggplant salad , and greek yogurt -LRB- with cuccumber , dill , and garlic -RRB- taste excellent when on warm pitas .
+creamy appetizers_0_1 [SEP] warm pitas_24_25 [SEP] taramasalata_3_3 [SEP] eggplant salad_5_6 [SEP] greek yogurt -LRB- with cuccumber , dill , and garlic -RRB-_9_19 [SEP] 
+1 0 1 1 1 

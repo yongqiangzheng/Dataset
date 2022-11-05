@@ -40,10 +40,10 @@ onion rings
 – i was highly disappointed in the $T$ at pagoda .
 food
 -1
-the $T$ tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you ... were not good .
+the $T$ tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you ..... were not good .
 lemon chicken
 -1
-the lemon chicken tasted like sticky sweet donuts and the $T$ , the few they actually give you ... were not good .
+the lemon chicken tasted like sticky sweet donuts and the $T$ , the few they actually give you ..... were not good .
 honey walnut prawns
 -1
 nice $T$ , but highly overrated place .
@@ -58,7 +58,7 @@ service
 everyone that sat in the back outside agreed that it was the worst $T$ we had ever received .
 service
 -1
-our $T$ was non-existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .
+our $T$ was non - existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .
 waiter
 -1
 i complained to the $T$ , but he was not even apologetic .
@@ -106,7 +106,7 @@ place
 the $T$ was great !
 food
 1
-it 's very reasonably priced , esp for the quality of the $T$ .
+it 's * very * reasonably priced , esp for the quality of the $T$ .
 food
 1
 i had the $T$ and it was perfect .
@@ -160,10 +160,10 @@ rolls
 the $T$ ranges from mediocre to offensive .
 service
 -1
-on a recent trip , our $T$ was extremely dismissive , while no less than three staff members waited hand-and-foot on a pair of japanese girls seated nearby .
+on a recent trip , our $T$ was extremely dismissive , while no less than three staff members waited hand - and - foot on a pair of japanese girls seated nearby .
 waiter
 -1
-on a recent trip , our waiter was extremely dismissive , while no less than three $T$ waited hand-and-foot on a pair of japanese girls seated nearby .
+on a recent trip , our waiter was extremely dismissive , while no less than three $T$ waited hand - and - foot on a pair of japanese girls seated nearby .
 staff members
 -1
 freshest $T$ – i love this restaurant .
@@ -238,22 +238,22 @@ sushi
 the best $T$ in seattle !
 calamari
 1
-– ... and the best summertime $T$ experience -  - they will even bring you a blanket if you get cold in the seattle evening weather .
+– ... and the best summertime $T$ experience -- they will even bring you a blanket if you get cold in the seattle evening weather .
 deck
 1
 a perfect $T$ to take out of town guests any time of the year .
 place
 1
-endless fun , awesome $T$ , great staff !
+endless fun , awesome $T$ , great staff ! ! !
 music
 1
-endless fun , awesome music , great $T$ !
+endless fun , awesome music , great $T$ ! ! !
 staff
 1
 – by far the best $T$ in the east village ...
 bar
 1
-every time " 0 - sixtynine " is called the $T$ buys everyone drinks !
+every time " 0-sixtynine " is called the $T$ buys everyone drinks !
 bartender
 1
 great draft and bottle selection and the $T$ rocks .
@@ -319,13 +319,13 @@ food
 the outside patio area has an abbreviated $T$ .
 menu
 0
-my g/f and i both agreed the $T$ was very mediocre especially considering the price .
+my g / f and i both agreed the $T$ was very mediocre especially considering the price .
 food
 -1
-we are locals , and get the feeling the only way this place survives with such average $T$ is because most customers are probably one-time customer tourists .
+we are locals , and get the feeling the only way this place survives with such average $T$ is because most customers are probably one - time customer tourists .
 food
 -1
-we are locals , and get the feeling the only way this $T$ survives with such average food is because most customers are probably one-time customer tourists .
+we are locals , and get the feeling the only way this $T$ survives with such average food is because most customers are probably one - time customer tourists .
 place
 -1
 $T$ was decent .
@@ -343,13 +343,13 @@ food
 excellent food , nice $T$ , fairly expensive
 ambience
 1
-– i loved the $T$ and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .
+– i loved the $T$ and the goat cheese gnocchi -LRB- 5 big ones to a plate instead of 20 or so little gnocchis -RRB- and my sister loved her filet mignon on top of spinach and mashed potatoes .
 pumpkin ravioli
 1
-– i loved the pumpkin ravioli and the $T$ ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .
+– i loved the pumpkin ravioli and the $T$ -LRB- 5 big ones to a plate instead of 20 or so little gnocchis -RRB- and my sister loved her filet mignon on top of spinach and mashed potatoes .
 goat cheese gnocchi
 1
-– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her $T$ .
+– i loved the pumpkin ravioli and the goat cheese gnocchi -LRB- 5 big ones to a plate instead of 20 or so little gnocchis -RRB- and my sister loved her $T$ .
 filet mignon on top of spinach and mashed potatoes
 1
 the $T$ was a peaceful and relaxing break amongst all the kids running around in downtown disney .
@@ -361,7 +361,7 @@ artwork
 it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and $T$ that kept up the feeling of being in a mediterrean villa .
 music
 1
-best $T$ in l . a .
+best $T$ in l.a.
 indian food
 1
 the $T$ and chicken tikka masala are my favorite meat dishes .
@@ -371,7 +371,7 @@ the chicken curry and $T$ are my favorite meat dishes .
 chicken tikka masala
 1
 the $T$ are also excellent .
-chana masala ( garbanzo beans )
+chana masala -LRB- garbanzo beans -RRB-
 1
 it 's located in a strip mall near the beverly center , not the greatest $T$ , but the food keeps me coming back for more .
 location
@@ -493,7 +493,7 @@ margaritas
 $T$ ! yum !
 lebanese food
 1
-– i 've been to $T$ only once , but i 'm still reeling from the experience !
+– i 've been to $T$ only once , but i 'm still reeling from the experience ! !
 open sesame
 1
 the $T$ is simply unforgettable !
@@ -511,7 +511,7 @@ staff
 the staff are friendly and the $T$ was ethic and colorful .
 decor
 1
-go to $T$ !
+go to $T$ ! ! !
 open sesame
 1
 holy $T$ !
@@ -529,13 +529,13 @@ dinners
 the $T$ is a bargain for the heap of food given .
 open sesame combo plate
 1
-the $T$ is to die for , as is the labne ( yogurt dip ) .
+the $T$ is to die for , as is the labne -LRB- yogurt dip -RRB- .
 side of potatoes
 1
 the side of potatoes is to die for , as is the $T$ .
-labne ( yogurt dip )
+labne -LRB- yogurt dip -RRB-
 1
-also , they serve the best $T$ in america , with a drizzle of fragrant olive oil ( which , i believe is the traditional way ) !
+also , they serve the best $T$ in america , with a drizzle of fragrant olive oil -LRB- which , i believe is the traditional way -RRB- !
 hummus
 1
 the only drawback is the crowded $T$ and the slow service .
@@ -577,7 +577,7 @@ grilled asparagus
 we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and $T$ were all very good .
 fried brie with fruit
 1
-we have since returned and also had a great experience , sampling more small plates and a variety of the $T$ ( cold and good ) .
+we have since returned and also had a great experience , sampling more small plates and a variety of the $T$ -LRB- cold and good -RRB- .
 beer
 1
 we did have the same $T$ the second time , so maybe the service is spotty and our luck is good .
@@ -589,10 +589,10 @@ band
 seattle 's best $T$
 winelist
 1
-– ray 's ( suprisingly ) has the city 's best & most diverse $T$ .
+– ray 's -LRB- suprisingly -RRB- has the city 's best & most diverse $T$ .
 wine list
 1
-the $T$ is fantastic , down-to-earth , & extremely knowlegable .
+the $T$ is fantastic , down - to - earth , & extremely knowlegable .
 sommelier
 1
 i would go back for the $T$ experience alone .
@@ -604,22 +604,22 @@ place
 – it is sad to see a place that was once " the " place to meet and eat for bfast or lunch , now be the $T$ that is a big " dont bother . "
 place
 -1
-the $T$ is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .
+the $T$ is not what it once was -LRB- potions have seriously seen downsizing -RRB- prices have gone up , and the service is the worst i have experienced anywhere -LRB- including mainland europe -RRB- .
 food
 -1
-the food is not what it once was ( $T$ have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .
+the food is not what it once was -LRB- $T$ have seriously seen downsizing -RRB- prices have gone up , and the service is the worst i have experienced anywhere -LRB- including mainland europe -RRB- .
 potions
 -1
-the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the $T$ is the worst i have experienced anywhere ( including mainland europe ) .
+the food is not what it once was -LRB- potions have seriously seen downsizing -RRB- prices have gone up , and the $T$ is the worst i have experienced anywhere -LRB- including mainland europe -RRB- .
 service
 -1
-the $T$ is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .
+the $T$ is not what it once was -LRB- potions have seriously seen downsizing -RRB- prices have gone up , and the service is the worst i have experienced anywhere -LRB- including mainland europe -RRB- .
 food
 -1
 what may be interesting to most is the worst sevice / attitude comes from the $T$ of this establishment .
 owners
 -1
-this $T$ really made a marked decline after ( and this is recurring story ) the airing of food televisions " diners , drive-ins , and dives " hosted by guy fieri , in which schooner or later was subject of .
+this $T$ really made a marked decline after -LRB- and this is recurring story -RRB- the airing of food televisions " diners , drive - ins , and dives " hosted by guy fieri , in which schooner or later was subject of .
 establishment
 -1
 perhaps now , $T$ falls into the " dive " category .
@@ -721,19 +721,19 @@ yogurt
 the best $T$ for a leisure sunday breakfast amidst yachts , then take a stroll through the nearby farmer 's market .
 place
 1
-great $T$ – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect !
+great $T$ – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect ! ! ! !
 meal
 1
-great meal – the $T$ was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect !
+great meal – the $T$ was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect ! ! ! !
 fish on the omikase platter
 1
 plus , i am allergic to rice , and the $T$ was unbelievably accomodating -- did n't even bat an eye !
 waitstaff
 1
-and the $T$ suggested a perfect sake !
+and the $T$ suggested a perfect sake ! !
 waiter
 1
-and the waiter suggested a perfect $T$ !
+and the waiter suggested a perfect $T$ ! !
 sake
 1
 unbeatable $T$ !
@@ -847,13 +847,13 @@ food
 great food , better $T$ !
 margaritas
 1
-– this is one of my top lunch spots , huge $T$ , fast service and amazing margaritas !
+– this is one of my top lunch spots , huge $T$ , fast service and amazing margaritas ! !
 portions
 1
-– this is one of my top lunch spots , huge portions , fast $T$ and amazing margaritas !
+– this is one of my top lunch spots , huge portions , fast $T$ and amazing margaritas ! !
 service
 1
-– this is one of my top lunch spots , huge portions , fast service and amazing $T$ !
+– this is one of my top lunch spots , huge portions , fast service and amazing $T$ ! !
 margaritas
 1
 it gets really busy , so get there on the early side so you can grab a seat , if you do have to wait , its not bad because the $T$ is quick !
@@ -901,7 +901,7 @@ sushi
 the nicest $T$ in town .
 waiters
 1
-– this $T$ is unbelievably over-rated .
+– this $T$ is unbelievably over - rated .
 place
 -1
 if i want to stand in line on sunday for an hour to get average $T$ , then i would put murphy 's at the top of the list .
@@ -1055,7 +1055,7 @@ $T$ plus
 seafood
 1
 the $T$ made a perfect entre for my wife .
-appetizer of oysters , lobster , crab ( small size )
+appetizer of oysters , lobster , crab -LRB- small size -RRB-
 1
 $T$ was the best .
 seabass on lobster risotto
@@ -1090,7 +1090,7 @@ atmosphere
 when i got there i sat up stairs where the atmosphere was cozy & the $T$ was horrible !
 service
 -1
-i waited for 10-15 minutes for $T$ ordered a beer & was never served again .
+i waited for 10 - 15 minutes for $T$ ordered a beer & was never served again .
 service
 -1
 i went home & looked them up online again where i discovered there is a link for a give away that does n't work so emailed the $T$ about the non existent service & deceptive link .
@@ -1105,7 +1105,7 @@ service
 best $T$ in town
 crab cakes
 1
-– thats a big statement considering i 've been pulling crab traps and making the $T$ myself since i was about seven - but something about these little devils gets better every time .
+– that 's a big statement considering i 've been pulling crab traps and making the $T$ myself since i was about seven - but something about these little devils gets better every time .
 cakes
 1
 if you can , come to this $T$ by boat and make it a whole evening .
@@ -1153,10 +1153,10 @@ pizza
 many people talk about the great pizza and poor $T$ , so it ca n't just be the rantings of a few dissatisfied customers .
 service
 -1
-it 's a great little $T$ with tons of potential to be a neighborhood joint if the service were n't so impersonal and corporate-like .
+it 's a great little $T$ with tons of potential to be a neighborhood joint if the service were n't so impersonal and corporate - like .
 place
 1
-it 's a great little place with tons of potential to be a neighborhood joint if the $T$ were n't so impersonal and corporate-like .
+it 's a great little place with tons of potential to be a neighborhood joint if the $T$ were n't so impersonal and corporate - like .
 service
 -1
 great $T$
@@ -1213,7 +1213,7 @@ prawns
 i would normally not finish the $T$ when i order these kinds of food but for the first time , every piece was as eventful as the first one ... the scallops and prawns was so fresh and nicely cooked .
 brocolli
 1
-for desert we had the $T$ ... oh la la yummy !
+for desert we had the $T$ ... oh la la yummy ! ! !
 mango ginger creme brulee
 1
 we are for sure coming back to this $T$ .
@@ -1222,16 +1222,16 @@ restaurant
 chintzy $T$
 portions
 -1
-– the $T$ here is perfectly good , but for  $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .
+– the $T$ here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant -LRB- even for nyc -RRB- .
 sushi
 1
-– the sushi here is perfectly good , but for  $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced $T$ ( even for nyc ) .
+– the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced $T$ -LRB- even for nyc -RRB- .
 restaurant
 -1
-– the $T$ here is perfectly good , but for  $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .
+– the $T$ here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant -LRB- even for nyc -RRB- .
 sushi
 -1
-i 'm astonished that this $T$ is categorized as  $  $  $  rather than  $  $  $  $  .
+i 'm astonished that this $T$ is categorized as $ $ $ rather than $ $ $ $ .
 restaurant
 -1
 terrible $T$ , food ok , pricey
@@ -1240,7 +1240,7 @@ service
 terrible service , $T$ ok , pricey
 food
 0
-in other words , if they are n't making  $  $  off of you then you do n't rate high on their ' $T$ scale '  .
+in other words , if they are n't making $ $ off of you then you do n't rate high on their ' $T$ scale ' .
 service
 -1
 $T$ wise , its ok but a bit pricey for what you get considering the restaurant is n't a fancy place .
@@ -1258,13 +1258,13 @@ feel
 another plus is the open feel of the restaurant with $T$ on all sides .
 glass walls
 1
-amazing $T$ and perfect box sushi ( that eel with avodcao -- um um um ) .
+amazing $T$ and perfect box sushi -LRB- that eel with avodcao -- um um um -RRB- .
 spanish mackeral special appetizer
 1
-amazing spanish mackeral special appetizer and perfect $T$ ( that eel with avodcao -- um um um ) .
+amazing spanish mackeral special appetizer and perfect $T$ -LRB- that eel with avodcao -- um um um -RRB- .
 box sushi
 1
-amazing spanish mackeral special appetizer and perfect box sushi ( that $T$ -- um um um ) .
+amazing spanish mackeral special appetizer and perfect box sushi -LRB- that $T$ -- um um um -RRB- .
 eel with avodcao
 1
 as usual the $T$ did n't disappoint in freshness , although it scored low on creativity and selection .
@@ -1303,13 +1303,13 @@ restaurant staff
 after one member of our party had been bumped repeatedly by a $T$ , a polite request that he not be bumped sent the waitress into an abusive rant .
 waitress
 -1
-a brief conversation with the $T$ at the end of the meal was the greatest disappointment -  - to say we had been " blown off " would be an understatement .
+a brief conversation with the $T$ at the end of the meal was the greatest disappointment -- to say we had been " blown off " would be an understatement .
 manager
 -1
 the $T$ continually interrupted with " is there anything else i can do for you ? " , a strange comment because she had hardly listened , let alone responded to our expression of disappointment at our experience .
 manager
 -1
-you are with a hot date and he/she has an urge for $T$ ... then this might be the place .
+you are with a hot date and he / she has an urge for $T$ ... then this might be the place .
 sushi
 1
 the $T$ was fresh , though it was cut very thin .
@@ -1336,7 +1336,7 @@ dungeness crabs
 we shared the family platter and i especially enjoyed the $T$ .
 black cod in sake kasu
 1
-i ended the meal with the unusual $T$ ... yummy !
+i ended the meal with the unusual $T$ .... yummy !
 dessert of a port and chocolate tasting
 1
 and the $T$ was simply spendid - quite a delight .
@@ -1387,22 +1387,22 @@ atmosphere
 oh , and the $T$ are awesome !
 cheese fries
 1
-good $T$ , great service , average prices ( for the strip )
+good $T$ , great service , average prices -LRB- for the strip -RRB-
 food
 1
-good food , great $T$ , average prices ( for the strip )
+good food , great $T$ , average prices -LRB- for the strip -RRB-
 service
 1
 – i decided to eat at stack because of their $T$ .
-price fixed pre-show dinner
+price fixed pre - show dinner
 0
 when i walked in , i was taken aback by their incredible $T$ .
 wood decor
 1
-the $T$ playing was very hip , 20-30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .
+the $T$ playing was very hip , 20 - 30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .
 music
 1
-the music playing was very hip , 20-30 something pop music , but the $T$ was located under my seat , which became annoying midway through dinner .
+the music playing was very hip , 20 - 30 something pop music , but the $T$ was located under my seat , which became annoying midway through dinner .
 subwoofer to the sound system
 -1
 i got the $T$ and it was alright .
@@ -1417,13 +1417,13 @@ asparagus
 the $T$ came next and it tasted great , at least initially .
 9 oz steak
 1
-the $T$ was done to my exact liking ( medium rare ) and was nice and juicy .
+the $T$ was done to my exact liking -LRB- medium rare -RRB- and was nice and juicy .
 steak
 1
-it 's served with either a $T$ or red wine reduction , though both were indistinguishable in taste .
+it?s served with either a $T$ or red wine reduction , though both were indistinguishable in taste .
 peppercorn sauce
 0
-it 's served with either a peppercorn sauce or $T$ , though both were indistinguishable in taste .
+it?s served with either a peppercorn sauce or $T$ , though both were indistinguishable in taste .
 red wine reduction
 0
 though , one thing i realized later on was that the restaurant either used msg or a meat tenderizer on the $T$ .
@@ -1501,28 +1501,28 @@ feeling
 – my husband and i love eating at $T$ .
 mioposto café
 1
-we 're ca n't say enough about their delicious gourmet $T$ !
-pizza 's
+we ’re ca n’t say enough about their delicious gourmet $T$ !
+pizza ’s
 1
-you wo n't be disappointed by their $T$ .
+you wo n’t be disappointed by their $T$ .
 menu
 1
-the pizza 's are thin crust and the $T$ offers very creative combinations and toppings .
+the pizza ’s are thin crust and the $T$ offers very creative combinations and toppings .
 menu
 1
 the $T$ are thin crust and the menu offers very creative combinations and toppings .
-pizza 's
+pizza ’s
 1
 the $T$ are light and scrumptious .
-pizza 's
+pizza ’s
 1
 try the $T$ !
 pizza ensalata
 1
-the $T$ are not huge and the crust is thin keep that in mind when you 're ordering .
-pizza 's
+the $T$ are not huge and the crust is thin … keep that in mind when you ’re ordering .
+pizza ’s
 0
-the pizza 's are not huge and the $T$ is thin keep that in mind when you 're ordering .
+the pizza ’s are not huge and the $T$ is thin … keep that in mind when you ’re ordering .
 crust
 0
 the $T$ is sinful .
@@ -1552,16 +1552,16 @@ place
 i have been to this $T$ , folks and it is bad .
 place
 -1
-maybe it is good for that one night once in a blue moon when the chefs decide to use $T$ that 's half-way decent .
+maybe it is good for that one night once in a blue moon when the chefs decide to use $T$ that 's half - way decent .
 fish
 -1
 i have been here , spent tons of money on a $T$ and it was a major dissappointment .
 chef special dinner
 -1
-fancy pieces of exotic fish on a  $ 100 dollar $T$ and not one was eatable .
+fancy pieces of exotic fish on a $ 100 dollar $T$ and not one was eatable .
 plate
 -1
-fancy pieces of $T$ on a  $ 100 dollar plate and not one was eatable .
+fancy pieces of $T$ on a $ 100 dollar plate and not one was eatable .
 exotic fish
 -1
 – the $T$ is great for any special occasion you might want to celebrate .
@@ -1609,7 +1609,7 @@ server
 to the owners of $T$ ... bravo ... i ca n't wait to come back to dine at your restaurant !
 open sesame
 1
-it 's a tiny $T$ so if you get there before 8pm on a weekend ( thurs ? sun ) you will find it easier to get a table or a seat at the sushi bar .
+it 's a tiny $T$ so if you get there before 8 pm on a weekend -LRB- thurs ? sun -RRB- you will find it easier to get a table or a seat at the sushi bar .
 place
 0
 everything , and i mean everything on the $T$ is delectable .
@@ -1621,16 +1621,16 @@ waiters
 the $T$ is as fresh as it comes ? you 'd think ocean was in their backyard , no joke !
 sushi
 1
-if you 're interested in good tasting ( without the fish taste or smell ) , large $T$ and creative sushi dishes this is your place ...
+if you 're interested in good tasting -LRB- without the fish taste or smell -RRB- , large $T$ and creative sushi dishes this is your place ...
 portions
 1
-if you 're interested in good tasting ( without the fish taste or smell ) , large portions and creative $T$ this is your place ...
+if you 're interested in good tasting -LRB- without the fish taste or smell -RRB- , large portions and creative $T$ this is your place ...
 sushi dishes
 1
 big thick $T$
 pepperoni
 1
-– the $T$ cut real thick -  - yum .
+– the $T$ cut real thick -- yum .
 pepperoni 's
 1
 the $T$ itself is not exactly the best i 've had ever , but still pretty good .
@@ -1699,7 +1699,7 @@ restroom
 the $T$ itself is very small with two toilets and only one sink , the girl was staying totally on the way hanging out paper towels from the dispenser .
 bathroom
 -1
-this $T$ rocks !
+this $T$ rocks ! !
 place
 1
 – mercedes restaurant is so tasty , the $T$ is undeniably awesome !
@@ -1717,10 +1717,10 @@ atmosphere
 the atmosphere is aspiring , and the $T$ is festive and amazing ...
 decor
 1
-the catering is out of this world , and $T$ rocks my world !
+the catering is out of this world , and $T$ rocks my world ! ! !
 raouls chicken vegetable soup
 1
-the $T$ is out of this world , and raouls chicken vegetable soup rocks my world !
+the $T$ is out of this world , and raouls chicken vegetable soup rocks my world ! ! !
 catering
 1
 $T$ are suberb , and i feel like i am in a third world country when i walk in the door .
@@ -1738,19 +1738,19 @@ menu
 the presentation of $T$ is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced ihop with a high brow menu .
 snooze
 -1
-to start off , approximately 8-10 oz of $T$ will cost you  $ 3 .
+to start off , approximately 8 - 10 oz of $T$ will cost you $ 3 .
 orange juice
 -1
-they serve it in a tall , skinny hour-glass shaped glass to disguise the fact that you a getting a small $T$ at the price of a half gallon in a supermarket .
+they serve it in a tall , skinny hour - glass shaped glass to disguise the fact that you a getting a small $T$ at the price of a half gallon in a supermarket .
 juice
 -1
 i should have just asked for the check when i saw that ; but their $T$ was so unique that i continued .
 menu
 1
-the $T$ were certainly inventive but  $ 8 . 50 for 3 - 6 " pancakes ( one of them was more like 5 " ) in the pancake flight ( sample of 3 different pancakes ) is well over-priced .
+the $T$ were certainly inventive but $ 8.50 for 3 - 6 " pancakes -LRB- one of them was more like 5 " -RRB- in the pancake flight -LRB- sample of 3 different pancakes -RRB- is well over - priced .
 pancakes
 1
-the $T$ should be larger ( at least 8 " ) to justify the expense even with the unique offerings .
+the $T$ should be larger -LRB- at least 8 " -RRB- to justify the expense even with the unique offerings .
 pancakes
 -1
 on my meal i had to send back my $T$ for a simple request of breaking the yokes before cooking , and would have had to send them back again if i had n't rejected the meal all together .
@@ -1765,16 +1765,16 @@ dish
 to their credit they removed the dish from the check ; but no $T$ stopped by to ask what the problem was .
 manager
 -1
-in the end our check came to  $ 27 for 4 small $T$ , a breakfast burrito , an orange juice and an iced tea ( i had water ) .
+in the end our check came to $ 27 for 4 small $T$ , a breakfast burrito , an orange juice and an iced tea -LRB- i had water -RRB- .
 pancakes
 -1
-in the end our check came to  $ 27 for 4 small pancakes , a $T$ , an orange juice and an iced tea ( i had water ) .
+in the end our check came to $ 27 for 4 small pancakes , a $T$ , an orange juice and an iced tea -LRB- i had water -RRB- .
 breakfast burrito
 -1
-in the end our check came to  $ 27 for 4 small pancakes , a breakfast burrito , an $T$ and an iced tea ( i had water ) .
+in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an $T$ and an iced tea -LRB- i had water -RRB- .
 orange juice
 -1
-in the end our check came to  $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an $T$ ( i had water ) .
+in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an $T$ -LRB- i had water -RRB- .
 iced tea
 -1
 much more than just a great $T$ !
@@ -1786,10 +1786,10 @@ ray 's boathouse
 ray 's is something of a seattle institution , but given its gorgeous $T$ , i had suspected that the accolades were more due to the scenery than to the food and service .
 sound views
 1
-imagine my happy surprise upon finding that the $T$ are only the third-best thing about ray 's !
+imagine my happy surprise upon finding that the $T$ are only the third - best thing about ray 's !
 views
 1
-imagine my happy surprise upon finding that the views are only the third-best thing about $T$ !
+imagine my happy surprise upon finding that the views are only the third - best thing about $T$ !
 ray 's
 1
 to start things off , our lovely server $T$ was quickly on hand to take my drink order .
@@ -1813,7 +1813,7 @@ shilshole sampler
 for my entree , i completely enjoyed the $T$ complemented by chard , artichoke hearts , fennel , and pecorino toscano .
 seared alaskan sea scallops
 1
-the $T$ are apparently cooked in a black olive butter which really makes them unique ( not to mention tasty ) .
+the $T$ are apparently cooked in a black olive butter which really makes them unique -LRB- not to mention tasty -RRB- .
 scallops
 1
 my friend enjoyed the $T$ with delectable creamed washington russet potatoes and crisp green beans .

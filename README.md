@@ -4,6 +4,21 @@ xml_original is download from SemEval offical website.
 
 xml_v2 is revised to keep the same with other works.
 
-one_sentence_one_aspect have lowercase and uppercase version dataset which can directly be used for later training.
+one_sentence_one_aspect
 
-one_sentence_multi_aspect will be upload soon.
+```
+i charge it at night and skip taking the $T$ with me because of the good battery life .
+cord
+0
+i charge it at night and skip taking the cord with me because of the good $T$ .
+battery life
+1
+```
+
+one_sentence_all_aspect
+
+```
+i charge it at night and skip taking the cord with me because of the good battery life .
+cord_9_9 [SEP] battery life_16_17 [SEP] 
+0 1 
+```
