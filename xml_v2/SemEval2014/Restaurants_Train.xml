@@ -11438,7 +11438,7 @@
         <aspectTerms>
             <aspectTerm term="portions" polarity="negative" from="20" to="28"/>
             <aspectTerm term="portion" polarity="positive" from="88" to="95"/>
-            <aspectTerm term="main cours" polarity="negative" from="56" to="66"/>
+            <aspectTerm term="main course" polarity="negative" from="56" to="67"/>
         </aspectTerms>
         <aspectCategories>
             <aspectCategory category="food" polarity="negative"/>
@@ -17686,7 +17686,7 @@
         <text>The pesto pizza was excellent, thin-crust pizza with a nice amount of spicy Italian cheese that I'd never heard of before.</text>
         <aspectTerms>
             <aspectTerm term="pesto pizza" polarity="positive" from="4" to="15"/>
-            <aspectTerm term="Italian chees" polarity="positive" from="76" to="89"/>
+            <aspectTerm term="Italian cheese" polarity="positive" from="76" to="90"/>
             <aspectTerm term="thin-crust pizza" polarity="positive" from="31" to="47"/>
         </aspectTerms>
         <aspectCategories>

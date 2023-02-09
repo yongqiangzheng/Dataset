@@ -286,7 +286,7 @@
     <sentence id="839">
         <text>I sent it back to Toshiba twice they covered it under the warranty.</text>
         <aspectTerms>
-            <aspectTerm term="warranty" polarity="positive" from="59" to="67"/>
+            <aspectTerm term="warranty" polarity="positive" from="58" to="66"/>
         </aspectTerms>
     </sentence>
     <sentence id="1473">
@@ -653,7 +653,7 @@
     <sentence id="1186">
         <text>And if you do a lot of writing, editing is a problem since there is no forward delete key.</text>
         <aspectTerms>
-            <aspectTerm term="delete  key" polarity="negative" from="80" to="91"/>
+            <aspectTerm term="delete key" polarity="negative" from="79" to="89"/>
             <aspectTerm term="editing" polarity="negative" from="32" to="39"/>
         </aspectTerms>
     </sentence>
@@ -1594,7 +1594,7 @@
     <sentence id="1355">
         <text>Runs Hot I thought we were paying for quality in our decision to buy an Apple product.</text>
         <aspectTerms>
-            <aspectTerm term="quality" polarity="negative" from="39" to="46"/>
+            <aspectTerm term="quality" polarity="negative" from="38" to="45"/>
         </aspectTerms>
     </sentence>
     <sentence id="3021">
@@ -2414,7 +2414,7 @@
     <sentence id="835">
         <text>but it has a major design flaw.</text>
         <aspectTerms>
-            <aspectTerm term="design" polarity="negative" from="20" to="26"/>
+            <aspectTerm term="design" polarity="negative" from="19" to="25"/>
         </aspectTerms>
     </sentence>
     <sentence id="1898">
@@ -3476,7 +3476,7 @@
     <sentence id="2238">
         <text>and looks very sexyy:D really the mac book pro is the best laptop specially for students in college if you are not caring about price.</text>
         <aspectTerms>
-            <aspectTerm term="price" polarity="negative" from="129" to="134"/>
+            <aspectTerm term="price" polarity="negative" from="128" to="133"/>
         </aspectTerms>
     </sentence>
     <sentence id="1907">
@@ -4520,7 +4520,7 @@
     <sentence id="851">
         <text>  I was told by many that it was a great computer, but we got one of these, and it worked great for one year, and as soon as the warrenty was up, then it got really bad.</text>
         <aspectTerms>
-            <aspectTerm term="warrenty" polarity="negative" from="131" to="139"/>
+            <aspectTerm term="warrenty" polarity="negative" from="129" to="137"/>
         </aspectTerms>
     </sentence>
     <sentence id="1008">
@@ -4606,7 +4606,7 @@
     <sentence id="980">
         <text>  First it burned or fused the power adapter plug.</text>
         <aspectTerms>
-            <aspectTerm term="power adapter plug" polarity="negative" from="34" to="52"/>
+            <aspectTerm term="power adapter plug" polarity="negative" from="31" to="49"/>
         </aspectTerms>
     </sentence>
     <sentence id="668">
@@ -5315,7 +5315,7 @@
     <sentence id="1493">
         <text>"> iPhoto is probably the best program I have ever worked with: easy and convenient.</text>
         <aspectTerms>
-            <aspectTerm term="iPhoto" polarity="positive" from="4" to="10"/>
+            <aspectTerm term="iPhoto" polarity="positive" from="3" to="9"/>
         </aspectTerms>
     </sentence>
     <sentence id="2944">
@@ -5924,7 +5924,7 @@
     <sentence id="2490">
         <text>2nd Best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into</text>
         <aspectTerms>
-            <aspectTerm term="patches" polarity="negative" from="110" to="117"/>
+            <aspectTerm term="patches" polarity="negative" from="109" to="116"/>
         </aspectTerms>
     </sentence>
     <sentence id="1713">
@@ -6757,8 +6757,8 @@
     <sentence id="1174">
         <text>) I also purchased Applecare for $300, which is a three year extended warranty, since I ve never seen any laptop that lasted more than two.</text>
         <aspectTerms>
-            <aspectTerm term="Applecare" polarity="neutral" from="20" to="29"/>
-            <aspectTerm term="extended warranty" polarity="neutral" from="63" to="80"/>
+            <aspectTerm term="Applecare" polarity="neutral" from="19" to="28"/>
+            <aspectTerm term="extended warranty" polarity="neutral" from="61" to="78"/>
         </aspectTerms>
     </sentence>
     <sentence id="2072">
@@ -8113,7 +8113,7 @@
     <sentence id="846">
         <text>I'm having the laptop returned unrepaired since paying $176 every 3 months just isn't worth it (that's about how long the port seems to last).</text>
         <aspectTerms>
-            <aspectTerm term="port" polarity="negative" from="123" to="127"/>
+            <aspectTerm term="port" polarity="negative" from="122" to="126"/>
         </aspectTerms>
     </sentence>
     <sentence id="2127">
@@ -8139,7 +8139,7 @@
         <aspectTerms>
             <aspectTerm term="cooling system" polarity="positive" from="10" to="24"/>
             <aspectTerm term="grafics card" polarity="positive" from="38" to="50"/>
-            <aspectTerm term="LED backlit screen." polarity="positive" from="73" to="92"/>
+            <aspectTerm term="LED backlit screen" polarity="positive" from="73" to="91"/>
             <aspectTerm term="8GB RAM" polarity="positive" from="64" to="71"/>
         </aspectTerms>
     </sentence>
@@ -8252,7 +8252,7 @@
     <sentence id="1179">
         <text>First, you ll discover that the word processing program known as Appleworks rarely translates perfectly on anyone else s computer, if it translates at all.</text>
         <aspectTerms>
-            <aspectTerm term="Appleworks" polarity="negative" from="66" to="76"/>
+            <aspectTerm term="Appleworks" polarity="negative" from="65" to="75"/>
             <aspectTerm term="word processing program" polarity="negative" from="32" to="55"/>
         </aspectTerms>
     </sentence>
@@ -8991,7 +8991,7 @@
         <text>  The hard drive crashed as well, and I had to buy a new power cord.</text>
         <aspectTerms>
             <aspectTerm term="hard drive" polarity="negative" from="6" to="16"/>
-            <aspectTerm term="power cord" polarity="negative" from="58" to="68"/>
+            <aspectTerm term="power cord" polarity="negative" from="57" to="67"/>
         </aspectTerms>
     </sentence>
     <sentence id="2116">
@@ -9288,17 +9288,17 @@
     <sentence id="1322">
         <text>So what am I supposed to do? The LG service center cannot provide me the "service" when it is called the "service center".</text>
         <aspectTerms>
-            <aspectTerm term="LG service center" polarity="negative" from="34" to="51"/>
-            <aspectTerm term="service center" polarity="negative" from="107" to="121"/>
-            <aspectTerm term="service" polarity="negative" from="75" to="82"/>
+            <aspectTerm term="LG service center" polarity="negative" from="33" to="50"/>
+            <aspectTerm term="service center" polarity="negative" from="106" to="120"/>
+            <aspectTerm term="service" polarity="negative" from="74" to="81"/>
         </aspectTerms>
     </sentence>
     <sentence id="1740">
         <text>The Material this Pro is made out of seems a lot nicer than any PC Specs: Like I said this performs a lot better than any computer I've had in the past.</text>
         <aspectTerms>
             <aspectTerm term="Material" polarity="positive" from="4" to="12"/>
-            <aspectTerm term="Specs" polarity="negative" from="68" to="73"/>
-            <aspectTerm term="performs" polarity="positive" from="92" to="100"/>
+            <aspectTerm term="Specs" polarity="negative" from="67" to="72"/>
+            <aspectTerm term="performs" polarity="positive" from="91" to="99"/>
         </aspectTerms>
     </sentence>
     <sentence id="2014">
@@ -10247,9 +10247,9 @@
     <sentence id="2236">
         <text>also you may need to charge it once a day, if for medium use every thing fast and easy with mac the size and look is the most feature that attracted me to it.</text>
         <aspectTerms>
-            <aspectTerm term="size" polarity="positive" from="101" to="105"/>
-            <aspectTerm term="look" polarity="positive" from="110" to="114"/>
-            <aspectTerm term="feature" polarity="positive" from="127" to="134"/>
+            <aspectTerm term="size" polarity="positive" from="100" to="104"/>
+            <aspectTerm term="look" polarity="positive" from="109" to="113"/>
+            <aspectTerm term="feature" polarity="positive" from="126" to="133"/>
             <aspectTerm term="charge" polarity="neutral" from="21" to="27"/>
         </aspectTerms>
     </sentence>
@@ -10503,10 +10503,10 @@
         <text>This laptop looks great on the surface: 17" inch screen, good price-point, nice appearance, boots up quickly, runs fast etc.</text>
         <aspectTerms>
             <aspectTerm term="17&quot; inch screen" polarity="positive" from="40" to="55"/>
-            <aspectTerm term="price-point" polarity="positive" from="63" to="74"/>
-            <aspectTerm term="appearance" polarity="positive" from="81" to="91"/>
-            <aspectTerm term="boots up" polarity="positive" from="93" to="101"/>
-            <aspectTerm term="runs" polarity="positive" from="111" to="115"/>
+            <aspectTerm term="price-point" polarity="positive" from="62" to="73"/>
+            <aspectTerm term="appearance" polarity="positive" from="80" to="90"/>
+            <aspectTerm term="boots up" polarity="positive" from="92" to="100"/>
+            <aspectTerm term="runs" polarity="positive" from="110" to="114"/>
         </aspectTerms>
     </sentence>
     <sentence id="1449">
@@ -10522,7 +10522,7 @@
     <sentence id="566">
         <text>pros: the macbook pro notebook has a large battery life and you wont have to worry to charge your laptop every five hours or so.</text>
         <aspectTerms>
-            <aspectTerm term="battery life" polarity="positive" from="44" to="56"/>
+            <aspectTerm term="battery life" polarity="positive" from="43" to="55"/>
         </aspectTerms>
     </sentence>
     <sentence id="598">
@@ -10946,8 +10946,8 @@
     <sentence id="926">
         <text>But guess what? (you have to buy an external dvd drive it doesn't have a built in type) The notebook can't be used because it doesn't read anything for an external drive.</text>
         <aspectTerms>
-            <aspectTerm term="external dvd drive" polarity="negative" from="37" to="55"/>
-            <aspectTerm term="external drive" polarity="negative" from="156" to="170"/>
+            <aspectTerm term="external dvd drive" polarity="negative" from="36" to="54"/>
+            <aspectTerm term="external drive" polarity="negative" from="155" to="169"/>
         </aspectTerms>
     </sentence>
     <sentence id="682">
@@ -11246,7 +11246,7 @@
     <sentence id="1201">
         <text>Once again, I was told it was the suspicious power supply problem.</text>
         <aspectTerms>
-            <aspectTerm term="power supply" polarity="negative" from="46" to="58"/>
+            <aspectTerm term="power supply" polarity="negative" from="45" to="57"/>
         </aspectTerms>
     </sentence>
     <sentence id="2158">
@@ -11297,7 +11297,7 @@
         <aspectTerms>
             <aspectTerm term="motherboard" polarity="neutral" from="23" to="34"/>
             <aspectTerm term="port" polarity="neutral" from="4" to="8"/>
-            <aspectTerm term="plug" polarity="negative" from="75" to="79"/>
+            <aspectTerm term="plug" polarity="negative" from="74" to="78"/>
         </aspectTerms>
     </sentence>
     <sentence id="649">
@@ -11439,8 +11439,8 @@
         <text>Quality Display I was surprised with the performance and quality of this HP Laptop.</text>
         <aspectTerms>
             <aspectTerm term="Quality Display" polarity="positive" from="0" to="15"/>
-            <aspectTerm term="performance" polarity="positive" from="42" to="53"/>
-            <aspectTerm term="quality" polarity="positive" from="58" to="65"/>
+            <aspectTerm term="performance" polarity="positive" from="41" to="52"/>
+            <aspectTerm term="quality" polarity="positive" from="57" to="64"/>
         </aspectTerms>
     </sentence>
     <sentence id="1778">
@@ -12655,7 +12655,7 @@
     <sentence id="858">
         <text>  I would rather spend my money on a computer that costs more then a Toshiba that isn't good at all.</text>
         <aspectTerms>
-            <aspectTerm term="costs" polarity="negative" from="52" to="57"/>
+            <aspectTerm term="costs" polarity="negative" from="51" to="56"/>
         </aspectTerms>
     </sentence>
     <sentence id="1173">
@@ -14042,7 +14042,7 @@
     <sentence id="845">
         <text>Long story, but after many calls to various offices, I was told that no one can override the depot and that managers don't take phone calls or e/mails.</text>
         <aspectTerms>
-            <aspectTerm term="depot" polarity="neutral" from="94" to="99"/>
+            <aspectTerm term="depot" polarity="neutral" from="93" to="98"/>
         </aspectTerms>
     </sentence>
     <sentence id="1741">
@@ -14471,7 +14471,7 @@
         <text>How Toshiba handles the repair seems to vary, some folks indicate that they were charged for even an intial fix, others had the repair done 5 times.</text>
         <aspectTerms>
             <aspectTerm term="repair" polarity="conflict" from="24" to="30"/>
-            <aspectTerm term="repair" polarity="positive" from="130" to="136"/>
+            <aspectTerm term="repair" polarity="positive" from="128" to="134"/>
         </aspectTerms>
     </sentence>
     <sentence id="734">

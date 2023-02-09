@@ -66,7 +66,6 @@
                 <text>The wine list is interesting and has many good values.</text>
                 <Opinions>
                     <Opinion target="wine list" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="4" to="13"/>
-                    <Opinion target="wine list" category="DRINKS#PRICES" polarity="positive" from="4" to="13"/>
                 </Opinions>
             </sentence>
             <sentence id="1014458:4">
@@ -203,7 +202,6 @@
                 <text>I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).</text>
                 <Opinions>
                     <Opinion target="Edamame pureed" category="FOOD#QUALITY" polarity="positive" from="16" to="30"/>
-                    <Opinion target="Edamame pureed" category="FOOD#STYLE_OPTIONS" polarity="positive" from="16" to="30"/>
                 </Opinions>
             </sentence>
             <sentence id="1041457:5" OutOfScope="TRUE">
@@ -387,7 +385,6 @@
                 <text>The sushi seemed pretty fresh and was adequately proportioned.</text>
                 <Opinions>
                     <Opinion target="sushi" category="FOOD#QUALITY" polarity="positive" from="4" to="9"/>
-                    <Opinion target="sushi" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="9"/>
                 </Opinions>
             </sentence>
             <sentence id="1064477:3">
@@ -457,8 +454,6 @@
                 <text>The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).</text>
                 <Opinions>
                     <Opinion target="Prix Fixe menu" category="FOOD#QUALITY" polarity="positive" from="4" to="18"/>
-                    <Opinion target="Prix Fixe menu" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="18"/>
-                    <Opinion target="Prix Fixe menu" category="FOOD#PRICES" polarity="positive" from="4" to="18"/>
                 </Opinions>
             </sentence>
             <sentence id="1084394:4">
@@ -485,8 +480,6 @@
                 <text>$6 and there is much tasty food, all of it fresh and continually refilled.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#STYLE_OPTIONS" polarity="positive" from="27" to="31"/>
-                    <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="27" to="31"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="positive" from="27" to="31"/>
                 </Opinions>
             </sentence>
             <sentence id="1086415:3">
@@ -568,7 +561,6 @@
                 <Opinions>
                     <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="18" to="25"/>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="36" to="40"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="positive" from="36" to="40"/>
                 </Opinions>
             </sentence>
             <sentence id="1090587:3">
@@ -651,7 +643,6 @@
                 <text>The pizza is overpriced and soggy.</text>
                 <Opinions>
                     <Opinion target="pizza" category="FOOD#QUALITY" polarity="negative" from="4" to="9"/>
-                    <Opinion target="pizza" category="FOOD#PRICES" polarity="negative" from="4" to="9"/>
                 </Opinions>
             </sentence>
             <sentence id="1119578:2">
@@ -719,7 +710,6 @@
                 <text>My wife had the fried shrimp which are huge and loved it.</text>
                 <Opinions>
                     <Opinion target="fried shrimp" category="FOOD#STYLE_OPTIONS" polarity="positive" from="16" to="28"/>
-                    <Opinion target="fried shrimp" category="FOOD#QUALITY" polarity="positive" from="16" to="28"/>
                 </Opinions>
             </sentence>
             <sentence id="1125006:4" OutOfScope="TRUE">
@@ -770,7 +760,6 @@
                 <text>Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.</text>
                 <Opinions>
                     <Opinion target="Leon" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="4"/>
-                    <Opinion target="Leon" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="4"/>
                     <Opinion target="specials" category="FOOD#QUALITY" polarity="positive" from="95" to="103"/>
                     <Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="123" to="133"/>
                     <Opinion target="French bistro fare" category="FOOD#QUALITY" polarity="positive" from="70" to="88"/>
@@ -1323,8 +1312,6 @@
                 <text>Tiny dessert was $8.00...just plain overpriced for what it is.</text>
                 <Opinions>
                     <Opinion target="dessert" category="FOOD#QUALITY" polarity="negative" from="5" to="12"/>
-                    <Opinion target="dessert" category="FOOD#STYLE_OPTIONS" polarity="negative" from="5" to="12"/>
-                    <Opinion target="dessert" category="FOOD#PRICES" polarity="negative" from="5" to="12"/>
                 </Opinions>
             </sentence>
         </sentences>
@@ -1370,7 +1357,6 @@
                 <text>The exotic food is beautifully presented and is a delight in delicious combinations.</text>
                 <Opinions>
                     <Opinion target="exotic food" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="15"/>
-                    <Opinion target="exotic food" category="FOOD#QUALITY" polarity="positive" from="4" to="15"/>
                 </Opinions>
             </sentence>
             <sentence id="1225162:2">
@@ -1625,7 +1611,6 @@
                 <Opinions>
                     <Opinion target="chicken pot pie" category="FOOD#QUALITY" polarity="positive" from="4" to="19"/>
                     <Opinion target="cheeseburger" category="FOOD#STYLE_OPTIONS" polarity="positive" from="39" to="51"/>
-                    <Opinion target="cheeseburger" category="FOOD#QUALITY" polarity="positive" from="39" to="51"/>
                     <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="81" to="88"/>
                 </Opinions>
             </sentence>
@@ -2284,7 +2269,6 @@
                 <text>This is some really good, inexpensive sushi.</text>
                 <Opinions>
                     <Opinion target="sushi" category="FOOD#QUALITY" polarity="positive" from="38" to="43"/>
-                    <Opinion target="sushi" category="FOOD#PRICES" polarity="positive" from="38" to="43"/>
                 </Opinions>
             </sentence>
             <sentence id="1338124:1">
@@ -2294,8 +2278,6 @@
                 <text>The spicy Tuna roll is huge and probably the best that I've had at this price range.</text>
                 <Opinions>
                     <Opinion target="spicy Tuna roll" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="19"/>
-                    <Opinion target="spicy Tuna roll" category="FOOD#QUALITY" polarity="positive" from="4" to="19"/>
-                    <Opinion target="spicy Tuna roll" category="FOOD#PRICES" polarity="positive" from="4" to="19"/>
                 </Opinions>
             </sentence>
             <sentence id="1338124:3">
@@ -2308,7 +2290,6 @@
                 <text>I have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.</text>
                 <Opinions>
                     <Opinion target="all you can eat deal" category="FOOD#STYLE_OPTIONS" polarity="negative" from="30" to="50"/>
-                    <Opinion target="all you can eat deal" category="FOOD#PRICES" polarity="negative" from="30" to="50"/>
                 </Opinions>
             </sentence>
             <sentence id="1338124:5">
@@ -2824,7 +2805,6 @@
                 <text>Slightly above average wines start at $70+ with only one selection listed at $30+.</text>
                 <Opinions>
                     <Opinion target="wines" category="DRINKS#QUALITY" polarity="negative" from="23" to="28"/>
-                    <Opinion target="wines" category="DRINKS#PRICES" polarity="negative" from="23" to="28"/>
                 </Opinions>
             </sentence>
             <sentence id="1398844:4">
@@ -3150,7 +3130,6 @@
                 <Opinions>
                     <Opinion target="food" category="FOOD#PRICES" polarity="negative" from="4" to="8"/>
                     <Opinion target="prixe fixe tasting menu" category="FOOD#QUALITY" polarity="positive" from="32" to="55"/>
-                    <Opinion target="prixe fixe tasting menu" category="FOOD#PRICES" polarity="positive" from="32" to="55"/>
                     <Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
                 </Opinions>
             </sentence>
@@ -3445,7 +3424,6 @@
                 <text>The bagels always warm, soft on the inside, crispy on the outside and enormous in size.</text>
                 <Opinions>
                     <Opinion target="bagels" category="FOOD#QUALITY" polarity="positive" from="4" to="10"/>
-                    <Opinion target="bagels" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="10"/>
                 </Opinions>
             </sentence>
             <sentence id="1470334:3">
@@ -3487,7 +3465,6 @@
                 <text>Prices too high for this cramped and unappealing resturant.</text>
                 <Opinions>
                     <Opinion target="resturant" category="RESTAURANT#PRICES" polarity="negative" from="49" to="58"/>
-                    <Opinion target="resturant" category="AMBIENCE#GENERAL" polarity="negative" from="49" to="58"/>
                 </Opinions>
             </sentence>
             <sentence id="1471273:4">
@@ -3702,7 +3679,6 @@
                 <text>This quaint and romantic trattoria is at the top of my Manhattan restaurant list.</text>
                 <Opinions>
                     <Opinion target="trattoria" category="AMBIENCE#GENERAL" polarity="positive" from="25" to="34"/>
-                    <Opinion target="trattoria" category="RESTAURANT#GENERAL" polarity="positive" from="25" to="34"/>
                 </Opinions>
             </sentence>
             <sentence id="1500453:2">
@@ -3930,7 +3906,6 @@
                 <text>I ate here a week ago and found most dishes average at best and too expensive.</text>
                 <Opinions>
                     <Opinion target="dishes" category="FOOD#QUALITY" polarity="negative" from="37" to="43"/>
-                    <Opinion target="dishes" category="FOOD#PRICES" polarity="negative" from="37" to="43"/>
                 </Opinions>
             </sentence>
             <sentence id="1572027:4">
@@ -4252,7 +4227,6 @@
                 <text>Also, the sandwiches (nearing $7) didn't come with anything like chips or a side.</text>
                 <Opinions>
                     <Opinion target="sandwiches" category="FOOD#STYLE_OPTIONS" polarity="negative" from="10" to="20"/>
-                    <Opinion target="sandwiches" category="FOOD#PRICES" polarity="negative" from="10" to="20"/>
                 </Opinions>
             </sentence>
             <sentence id="1611489:2">
@@ -4286,7 +4260,6 @@
                 <text>They have authentic Indian at amazin prices.</text>
                 <Opinions>
                     <Opinion target="Indian" category="FOOD#QUALITY" polarity="positive" from="20" to="26"/>
-                    <Opinion target="Indian" category="FOOD#PRICES" polarity="positive" from="20" to="26"/>
                 </Opinions>
             </sentence>
             <sentence id="1615322:3">
@@ -4305,7 +4278,6 @@
                 <text>It's a rather cramped and busy restaurant and it closes early.</text>
                 <Opinions>
                     <Opinion target="restaurant" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="31" to="41"/>
-                    <Opinion target="restaurant" category="AMBIENCE#GENERAL" polarity="negative" from="31" to="41"/>
                 </Opinions>
             </sentence>
         </sentences>
@@ -4546,8 +4518,6 @@
                 <text>Cheese plate is a varied delight and great bargain at $10.</text>
                 <Opinions>
                     <Opinion target="Cheese plate" category="FOOD#QUALITY" polarity="positive" from="0" to="12"/>
-                    <Opinion target="Cheese plate" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="12"/>
-                    <Opinion target="Cheese plate" category="FOOD#PRICES" polarity="positive" from="0" to="12"/>
                 </Opinions>
             </sentence>
             <sentence id="1655504:2">
@@ -4568,7 +4538,6 @@
                 <text>Wine list is extensive without being over-priced.</text>
                 <Opinions>
                     <Opinion target="Wine list" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="0" to="9"/>
-                    <Opinion target="Wine list" category="DRINKS#PRICES" polarity="positive" from="0" to="9"/>
                 </Opinions>
             </sentence>
             <sentence id="1655504:5">
@@ -4603,7 +4572,6 @@
                 <text>The food was very good, a great deal, and the place its self was great.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="positive" from="4" to="8"/>
                     <Opinion target="place" category="AMBIENCE#GENERAL" polarity="positive" from="46" to="51"/>
                 </Opinions>
             </sentence>
@@ -4841,7 +4809,6 @@
                 <text>The food is great and reasonably priced.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="positive" from="4" to="8"/>
                 </Opinions>
             </sentence>
             <sentence id="1671113:2">
@@ -5352,7 +5319,6 @@
                 <text>This is a wonderful place on all stand points especially value ofr money.</text>
                 <Opinions>
                     <Opinion target="place" category="RESTAURANT#PRICES" polarity="positive" from="20" to="25"/>
-                    <Opinion target="place" category="RESTAURANT#GENERAL" polarity="positive" from="20" to="25"/>
                 </Opinions>
             </sentence>
             <sentence id="1727363:2">
@@ -5692,7 +5658,6 @@
                 <text>The entree was bland and small, dessert was not inspired.</text>
                 <Opinions>
                     <Opinion target="entree" category="FOOD#QUALITY" polarity="negative" from="4" to="10"/>
-                    <Opinion target="entree" category="FOOD#STYLE_OPTIONS" polarity="negative" from="4" to="10"/>
                     <Opinion target="dessert" category="FOOD#QUALITY" polarity="negative" from="32" to="39"/>
                 </Opinions>
             </sentence>
@@ -5700,7 +5665,6 @@
                 <text>I expected quite a bit more from such an expensive menu.</text>
                 <Opinions>
                     <Opinion target="menu" category="FOOD#PRICES" polarity="negative" from="51" to="55"/>
-                    <Opinion target="menu" category="FOOD#QUALITY" polarity="negative" from="51" to="55"/>
                 </Opinions>
             </sentence>
         </sentences>
@@ -5740,7 +5704,6 @@
                 <text>Authentic Taiwanese food that's cheap... what more could you ask for?</text>
                 <Opinions>
                     <Opinion target="Taiwanese food" category="FOOD#QUALITY" polarity="positive" from="10" to="24"/>
-                    <Opinion target="Taiwanese food" category="FOOD#PRICES" polarity="positive" from="10" to="24"/>
                 </Opinions>
             </sentence>
             <sentence id="426930:1">
@@ -5763,7 +5726,6 @@
                 <text>delicious simple food in nice outdoor atmosphere.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="17" to="21"/>
-                    <Opinion target="food" category="FOOD#STYLE_OPTIONS" polarity="positive" from="17" to="21"/>
                     <Opinion target="outdoor atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="30" to="48"/>
                 </Opinions>
             </sentence>
@@ -5813,7 +5775,6 @@
                 <text>This is a nice pizza place with good selection of thin crust pizza including the Basil slice.</text>
                 <Opinions>
                     <Opinion target="selection of thin crust pizza" category="FOOD#STYLE_OPTIONS" polarity="positive" from="37" to="66"/>
-                    <Opinion target="selection of thin crust pizza" category="FOOD#QUALITY" polarity="positive" from="37" to="66"/>
                     <Opinion target="pizza place" category="RESTAURANT#GENERAL" polarity="positive" from="15" to="26"/>
                     <Opinion target="Basil slice" category="FOOD#QUALITY" polarity="positive" from="81" to="92"/>
                 </Opinions>
@@ -5868,14 +5829,12 @@
                 <text>The dosas are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.</text>
                 <Opinions>
                     <Opinion target="dosas" category="FOOD#STYLE_OPTIONS" polarity="negative" from="4" to="9"/>
-                    <Opinion target="dosas" category="FOOD#QUALITY" polarity="negative" from="4" to="9"/>
                 </Opinions>
             </sentence>
             <sentence id="436868:2">
                 <text>The sandwiches are dry, tasteless and way overpriced.</text>
                 <Opinions>
                     <Opinion target="sandwiches" category="FOOD#QUALITY" polarity="negative" from="4" to="14"/>
-                    <Opinion target="sandwiches" category="FOOD#PRICES" polarity="negative" from="4" to="14"/>
                 </Opinions>
             </sentence>
             <sentence id="436868:3">
@@ -6042,7 +6001,6 @@
                 <text>This place is not worth the prices.</text>
                 <Opinions>
                     <Opinion target="place" category="RESTAURANT#GENERAL" polarity="negative" from="5" to="10"/>
-                    <Opinion target="place" category="RESTAURANT#PRICES" polarity="negative" from="5" to="10"/>
                 </Opinions>
             </sentence>
             <sentence id="454704:3">
@@ -6233,7 +6191,6 @@
                 <text>Food is great and inexpensive.</text>
                 <Opinions>
                     <Opinion target="Food" category="FOOD#QUALITY" polarity="positive" from="0" to="4"/>
-                    <Opinion target="Food" category="FOOD#PRICES" polarity="positive" from="0" to="4"/>
                 </Opinions>
             </sentence>
             <sentence id="475298:3">
@@ -6458,8 +6415,6 @@
                 <text>You can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (I recommend the Vanilla Shanty, mmmm!) in a great homey setting with great music.</text>
                 <Opinions>
                     <Opinion target="martini" category="DRINKS#QUALITY" polarity="positive" from="32" to="39"/>
-                    <Opinion target="martini" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="32" to="39"/>
-                    <Opinion target="martini" category="DRINKS#PRICES" polarity="positive" from="32" to="39"/>
                     <Opinion target="Vanilla Shanty" category="DRINKS#QUALITY" polarity="positive" from="106" to="120"/>
                     <Opinion target="setting" category="AMBIENCE#GENERAL" polarity="positive" from="146" to="153"/>
                     <Opinion target="music" category="AMBIENCE#GENERAL" polarity="positive" from="165" to="170"/>
@@ -6896,7 +6851,6 @@
                 <text>If you are looking for a good quality, cheap eats - this is the place.</text>
                 <Opinions>
                     <Opinion target="eats" category="FOOD#QUALITY" polarity="positive" from="45" to="49"/>
-                    <Opinion target="eats" category="FOOD#PRICES" polarity="positive" from="45" to="49"/>
                 </Opinions>
             </sentence>
         </sentences>
@@ -6949,7 +6903,6 @@
                 <text>Great bagels made the old-fashioned way.</text>
                 <Opinions>
                     <Opinion target="bagels" category="FOOD#QUALITY" polarity="positive" from="6" to="12"/>
-                    <Opinion target="bagels" category="FOOD#STYLE_OPTIONS" polarity="positive" from="6" to="12"/>
                 </Opinions>
             </sentence>
             <sentence id="513521:1" OutOfScope="TRUE">
@@ -7047,7 +7000,6 @@
                     <Opinion target="anti-pasta" category="FOOD#QUALITY" polarity="positive" from="4" to="14"/>
                     <Opinion target="calamari" category="FOOD#QUALITY" polarity="positive" from="45" to="53"/>
                     <Opinion target="pasta mains" category="FOOD#QUALITY" polarity="positive" from="75" to="86"/>
-                    <Opinion target="pasta mains" category="FOOD#STYLE_OPTIONS" polarity="positive" from="75" to="86"/>
                 </Opinions>
             </sentence>
             <sentence id="527109:3">
@@ -7190,7 +7142,6 @@
                     <Opinion target="bar" category="AMBIENCE#GENERAL" polarity="positive" from="7" to="10"/>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="22" to="26"/>
                     <Opinion target="beer" category="DRINKS#QUALITY" polarity="positive" from="50" to="54"/>
-                    <Opinion target="beer" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="50" to="54"/>
                 </Opinions>
             </sentence>
             <sentence id="535171:3">
@@ -7361,7 +7312,6 @@
                 <text>This place has the best Chinese style BBQ ribs in the city.</text>
                 <Opinions>
                     <Opinion target="BBQ ribs" category="FOOD#QUALITY" polarity="positive" from="38" to="46"/>
-                    <Opinion target="BBQ ribs" category="FOOD#STYLE_OPTIONS" polarity="positive" from="38" to="46"/>
                 </Opinions>
             </sentence>
             <sentence id="558423:1">
@@ -7427,7 +7377,6 @@
                 <text>The food is wonderful, tasty and filling, and the service is professional and friendly.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
-                    <Opinion target="food" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="8"/>
                     <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="50" to="57"/>
                 </Opinions>
             </sentence>
@@ -7524,7 +7473,6 @@
                 <text>Great spot, whether looking for a couple of drinks or quiet dinner.</text>
                 <Opinions>
                     <Opinion target="spot" category="RESTAURANT#GENERAL" polarity="positive" from="6" to="10"/>
-                    <Opinion target="spot" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="6" to="10"/>
                 </Opinions>
             </sentence>
             <sentence id="584025:1">
@@ -7539,7 +7487,6 @@
                 <Opinions>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
                     <Opinion target="wines" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="51" to="56"/>
-                    <Opinion target="wines" category="DRINKS#PRICES" polarity="positive" from="51" to="56"/>
                 </Opinions>
             </sentence>
             <sentence id="584025:3">
@@ -7574,7 +7521,6 @@
                 <text>We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.</text>
                 <Opinions>
                     <Opinion target="chicken casserole" category="FOOD#QUALITY" polarity="negative" from="15" to="32"/>
-                    <Opinion target="chicken casserole" category="FOOD#STYLE_OPTIONS" polarity="negative" from="15" to="32"/>
                 </Opinions>
             </sentence>
             <sentence id="608500:4">
@@ -7752,7 +7698,6 @@
                 <text>Just straight up cheap, good food.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="29" to="33"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="positive" from="29" to="33"/>
                 </Opinions>
             </sentence>
         </sentences>
@@ -7782,7 +7727,6 @@
                 <text>bottles of wine are cheap and good.</text>
                 <Opinions>
                     <Opinion target="bottles of wine" category="DRINKS#PRICES" polarity="positive" from="0" to="15"/>
-                    <Opinion target="bottles of wine" category="DRINKS#QUALITY" polarity="positive" from="0" to="15"/>
                 </Opinions>
             </sentence>
             <sentence id="626269:4">
@@ -7889,7 +7833,6 @@
                 <text>the drinks are amazing and half off till 8pm.</text>
                 <Opinions>
                     <Opinion target="drinks" category="DRINKS#QUALITY" polarity="positive" from="4" to="10"/>
-                    <Opinion target="drinks" category="DRINKS#PRICES" polarity="positive" from="4" to="10"/>
                 </Opinions>
             </sentence>
             <sentence id="657129:4">
@@ -8233,7 +8176,6 @@
                 <text>Simply some good tasting Chinese food at incredible prices...</text>
                 <Opinions>
                     <Opinion target="Chinese food" category="FOOD#QUALITY" polarity="positive" from="25" to="37"/>
-                    <Opinion target="Chinese food" category="FOOD#PRICES" polarity="positive" from="25" to="37"/>
                 </Opinions>
             </sentence>
             <sentence id="720620:6">
@@ -8346,7 +8288,6 @@
                 <text>Price and quality of fish alone will keep us from making a return visit.</text>
                 <Opinions>
                     <Opinion target="fish" category="FOOD#PRICES" polarity="negative" from="21" to="25"/>
-                    <Opinion target="fish" category="FOOD#QUALITY" polarity="negative" from="21" to="25"/>
                     <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
                 </Opinions>
             </sentence>
@@ -8377,11 +8318,8 @@
                 <Opinions>
                     <Opinion target="decor" category="AMBIENCE#GENERAL" polarity="positive" from="9" to="14"/>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="93" to="97"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="positive" from="93" to="97"/>
                     <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="134" to="139"/>
                     <Opinion target="Rice Avenue" category="AMBIENCE#GENERAL" polarity="positive" from="212" to="223"/>
-                    <Opinion target="Rice Avenue" category="LOCATION#GENERAL" polarity="positive" from="212" to="223"/>
-                    <Opinion target="Rice Avenue" category="RESTAURANT#PRICES" polarity="positive" from="212" to="223"/>
                 </Opinions>
             </sentence>
         </sentences>
@@ -8430,7 +8368,6 @@
                 <Opinions>
                     <Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="91" to="98"/>
                     <Opinion target="food" category="FOOD#PRICES" polarity="negative" from="117" to="121"/>
-                    <Opinion target="food" category="FOOD#QUALITY" polarity="negative" from="117" to="121"/>
                 </Opinions>
             </sentence>
             <sentence id="751493:1" OutOfScope="TRUE">
@@ -8642,7 +8579,6 @@
                 <text>The pizza was pretty good and huge.</text>
                 <Opinions>
                     <Opinion target="pizza" category="FOOD#QUALITY" polarity="positive" from="4" to="9"/>
-                    <Opinion target="pizza" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="9"/>
                 </Opinions>
             </sentence>
             <sentence id="875139:2">
@@ -8670,7 +8606,6 @@
                 <text>The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol</text>
                 <Opinions>
                     <Opinion target="pasta penne" category="FOOD#QUALITY" polarity="negative" from="4" to="15"/>
-                    <Opinion target="pasta penne" category="FOOD#STYLE_OPTIONS" polarity="negative" from="4" to="15"/>
                 </Opinions>
             </sentence>
         </sentences>

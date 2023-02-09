@@ -154,7 +154,6 @@
                 <Opinions>
                     <Opinion target="lemon chicken" category="FOOD#QUALITY" polarity="negative" from="4" to="17"/>
                     <Opinion target="honey walnut prawns" category="FOOD#QUALITY" polarity="negative" from="58" to="77"/>
-                    <Opinion target="honey walnut prawns" category="FOOD#STYLE_OPTIONS" polarity="negative" from="58" to="77"/>
                 </Opinions>
             </sentence>
             <sentence id="en_PagodaRestaurant_478006817:3" OutOfScope="TRUE">
@@ -319,7 +318,6 @@
                 <text>It&apos;s *very* reasonably priced, esp for the quality of the food.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#PRICES" polarity="positive" from="58" to="62"/>
-                    <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="58" to="62"/>
                 </Opinions>
             </sentence>
             <sentence id="en_OpenSesame_477970939:5">
@@ -393,7 +391,6 @@
                 <Opinions>
                     <Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="12" to="22"/>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="negative" from="41" to="45"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="negative" from="41" to="45"/>
                 </Opinions>
             </sentence>
             <sentence id="en_BlueRibbonSushi_478218900:3">
@@ -429,7 +426,6 @@
                 <text>I have eaten here three times and have found the quality and variety of the fish to be excellent.</text>
                 <Opinions>
                     <Opinion target="fish" category="FOOD#QUALITY" polarity="positive" from="76" to="80"/>
-                    <Opinion target="fish" category="FOOD#STYLE_OPTIONS" polarity="positive" from="76" to="80"/>
                 </Opinions>
             </sentence>
             <sentence id="en_BlueRibbonSushi_478219453:1">
@@ -893,7 +889,6 @@
                 <text>My g/f and I both agreed the food was very mediocre especially considering the price.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="negative" from="29" to="33"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="negative" from="29" to="33"/>
                 </Opinions>
             </sentence>
             <sentence id="en_CatalRestaurant__UvaBar_477861889:5">
@@ -945,7 +940,6 @@
                 <Opinions>
                     <Opinion target="pumpkin ravioli" category="FOOD#QUALITY" polarity="positive" from="14" to="29"/>
                     <Opinion target="goat cheese gnocchi" category="FOOD#QUALITY" polarity="positive" from="38" to="57"/>
-                    <Opinion target="goat cheese gnocchi" category="FOOD#STYLE_OPTIONS" polarity="positive" from="38" to="57"/>
                     <Opinion target="filet mignon on top of spinach and mashed potatoes" category="FOOD#QUALITY" polarity="positive" from="142" to="192"/>
                 </Opinions>
             </sentence>
@@ -1269,7 +1263,6 @@
                 <text>The presentation of the food was an added bonus, it looked just as great as it tasted!</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#STYLE_OPTIONS" polarity="positive" from="24" to="28"/>
-                    <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="24" to="28"/>
                 </Opinions>
             </sentence>
             <sentence id="en_OpenSesame_477970938:5">
@@ -1328,7 +1321,6 @@
                 <text>The open sesame combo plate is a bargain for the heap of food given.</text>
                 <Opinions>
                     <Opinion target="open sesame combo plate" category="FOOD#PRICES" polarity="positive" from="4" to="27"/>
-                    <Opinion target="open sesame combo plate" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="27"/>
                 </Opinions>
             </sentence>
             <sentence id="en_OpenSesame_477970940:4">
@@ -1342,7 +1334,6 @@
                 <text>Also, they serve THE best hummus in America, with a drizzle of fragrant olive oil (which, I believe is the traditional way)!</text>
                 <Opinions>
                     <Opinion target="hummus" category="FOOD#QUALITY" polarity="positive" from="26" to="32"/>
-                    <Opinion target="hummus" category="FOOD#STYLE_OPTIONS" polarity="positive" from="26" to="32"/>
                 </Opinions>
             </sentence>
             <sentence id="en_OpenSesame_477970940:6">
@@ -1555,7 +1546,6 @@
                 <text>– Mioposto has a very creative &amp; delicious pizza menu.</text>
                 <Opinions>
                     <Opinion target="pizza menu" category="FOOD#QUALITY" polarity="positive" from="43" to="53"/>
-                    <Opinion target="pizza menu" category="FOOD#STYLE_OPTIONS" polarity="positive" from="43" to="53"/>
                 </Opinions>
             </sentence>
             <sentence id="en_MiopostoCaffe_478542920:2">
@@ -1649,7 +1639,6 @@
                 <text>Food was good and cheap.</text>
                 <Opinions>
                     <Opinion target="Food" category="FOOD#QUALITY" polarity="positive" from="0" to="4"/>
-                    <Opinion target="Food" category="FOOD#PRICES" polarity="positive" from="0" to="4"/>
                 </Opinions>
             </sentence>
             <sentence id="en_OpenSesame_477970937:6">
@@ -1928,7 +1917,6 @@
                 <text>It&apos;s the perfect spot for a romantic date for 2 or a secret rendezvous!</text>
                 <Opinions>
                     <Opinion target="spot" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="17" to="21"/>
-                    <Opinion target="spot" category="AMBIENCE#GENERAL" polarity="positive" from="17" to="21"/>
                 </Opinions>
             </sentence>
             <sentence id="en_Murphy's_478075041:5">
@@ -2373,7 +2361,6 @@
                 <text>Great value sushi with high quality &amp; nice setting.</text>
                 <Opinions>
                     <Opinion target="sushi" category="FOOD#PRICES" polarity="positive" from="12" to="17"/>
-                    <Opinion target="sushi" category="FOOD#QUALITY" polarity="positive" from="12" to="17"/>
                     <Opinion target="setting" category="AMBIENCE#GENERAL" polarity="positive" from="43" to="50"/>
                 </Opinions>
             </sentence>
@@ -2957,7 +2944,6 @@
                     <Opinion target="sushi" category="FOOD#QUALITY" polarity="positive" from="6" to="11"/>
                     <Opinion target="restaurant" category="RESTAURANT#PRICES" polarity="negative" from="164" to="174"/>
                     <Opinion target="sushi" category="FOOD#STYLE_OPTIONS" polarity="negative" from="6" to="11"/>
-                    <Opinion target="sushi" category="FOOD#PRICES" polarity="negative" from="6" to="11"/>
                 </Opinions>
             </sentence>
             <sentence id="en_BlueRibbonSushi_478219459:2">
@@ -3451,7 +3437,6 @@
                 <text>It wasn&apos;t the freshest seafood ever, but the taste and presentation was OK.</text>
                 <Opinions>
                     <Opinion target="seafood" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="23" to="30"/>
-                    <Opinion target="seafood" category="FOOD#QUALITY" polarity="neutral" from="23" to="30"/>
                 </Opinions>
             </sentence>
             <sentence id="en_StackRestaurant__Bar_478538239:7">
@@ -3624,7 +3609,6 @@
                 <text>For the amount of food we got the prices should have been lower.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#STYLE_OPTIONS" polarity="negative" from="18" to="22"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="negative" from="18" to="22"/>
                 </Opinions>
             </sentence>
             <sentence id="en_SnoozeanAMEatery_480412257:8">
@@ -3852,7 +3836,6 @@
                 <text>I have been here, spent tons of money on a chef special dinner and it was a major dissappointment.</text>
                 <Opinions>
                     <Opinion target="chef special dinner" category="FOOD#QUALITY" polarity="negative" from="43" to="62"/>
-                    <Opinion target="chef special dinner" category="FOOD#PRICES" polarity="negative" from="43" to="62"/>
                 </Opinions>
             </sentence>
             <sentence id="en_BlueRibbonSushi_478218334:6">
@@ -3860,7 +3843,6 @@
                 <Opinions>
                     <Opinion target="plate" category="FOOD#PRICES" polarity="negative" from="45" to="50"/>
                     <Opinion target="exotic fish" category="FOOD#QUALITY" polarity="negative" from="16" to="27"/>
-                    <Opinion target="exotic fish" category="FOOD#STYLE_OPTIONS" polarity="negative" from="16" to="27"/>
                 </Opinions>
             </sentence>
             <sentence id="en_BlueRibbonSushi_478218334:7">
@@ -3969,7 +3951,6 @@
                 <text>The food is fantastic, authentic, delicious and very, very affordable.</text>
                 <Opinions>
                     <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
-                    <Opinion target="food" category="FOOD#PRICES" polarity="positive" from="4" to="8"/>
                 </Opinions>
             </sentence>
             <sentence id="en_OpenSesame_477970936:3">
@@ -4253,7 +4234,7 @@
                 <text>– Mercedes restaurant is so tasty, the service is undeniably awesome!</text>
                 <Opinions>
                     <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="39" to="46"/>
-                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="2" to="21"/>
+                    <Opinion target="Mercedes restaurant" category="FOOD#QUALITY" polarity="positive" from="2" to="21"/>
                 </Opinions>
             </sentence>
             <sentence id="en_MercedesRestaurant_478010600:2">
@@ -4322,7 +4303,6 @@
                 <text>They serve it in a tall, skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket.</text>
                 <Opinions>
                     <Opinion target="juice" category="DRINKS#STYLE_OPTIONS" polarity="negative" from="104" to="109"/>
-                    <Opinion target="juice" category="DRINKS#PRICES" polarity="negative" from="104" to="109"/>
                 </Opinions>
             </sentence>
             <sentence id="en_SnoozeanAMEatery_480171723:6">
@@ -4341,7 +4321,6 @@
                 <text>The pancakes should be larger (at least 8&quot;) to justify the expense even with the unique offerings.</text>
                 <Opinions>
                     <Opinion target="pancakes" category="FOOD#STYLE_OPTIONS" polarity="negative" from="4" to="12"/>
-                    <Opinion target="pancakes" category="FOOD#PRICES" polarity="negative" from="4" to="12"/>
                 </Opinions>
             </sentence>
             <sentence id="en_SnoozeanAMEatery_480171723:9" OutOfScope="TRUE">
@@ -4372,7 +4351,6 @@
                 <text>In the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (I had water).</text>
                 <Opinions>
                     <Opinion target="pancakes" category="FOOD#STYLE_OPTIONS" polarity="negative" from="45" to="53"/>
-                    <Opinion target="pancakes" category="FOOD#PRICES" polarity="negative" from="45" to="53"/>
                     <Opinion target="breakfast burrito" category="FOOD#PRICES" polarity="negative" from="57" to="74"/>
                     <Opinion target="orange juice" category="DRINKS#PRICES" polarity="negative" from="79" to="91"/>
                     <Opinion target="iced tea" category="DRINKS#PRICES" polarity="negative" from="99" to="107"/>
@@ -4430,21 +4408,18 @@
                     <Opinion target="soy dressing" category="FOOD#QUALITY" polarity="positive" from="240" to="252"/>
                     <Opinion target="butter sauce" category="FOOD#QUALITY" polarity="positive" from="303" to="315"/>
                     <Opinion target="Shilshole Sampler" category="FOOD#QUALITY" polarity="positive" from="75" to="92"/>
-                    <Opinion target="Shilshole Sampler" category="FOOD#STYLE_OPTIONS" polarity="positive" from="75" to="92"/>
                 </Opinions>
             </sentence>
             <sentence id="en_Ray'sBoathouse_477775918:6">
                 <text>For my entr&amp;eacute;e, I completely enjoyed the seared Alaskan sea scallops complemented by chard, artichoke hearts, fennel, and pecorino toscano.</text>
                 <Opinions>
                     <Opinion target="seared Alaskan sea scallops" category="FOOD#QUALITY" polarity="positive" from="47" to="74"/>
-                    <Opinion target="seared Alaskan sea scallops" category="FOOD#STYLE_OPTIONS" polarity="positive" from="47" to="74"/>
                 </Opinions>
             </sentence>
             <sentence id="en_Ray'sBoathouse_477775918:7">
                 <text>The scallops are apparently cooked in a black olive butter which really makes them unique (not to mention tasty).</text>
                 <Opinions>
                     <Opinion target="scallops" category="FOOD#QUALITY" polarity="positive" from="4" to="12"/>
-                    <Opinion target="scallops" category="FOOD#STYLE_OPTIONS" polarity="positive" from="4" to="12"/>
                 </Opinions>
             </sentence>
             <sentence id="en_Ray'sBoathouse_477775918:8">
