@@ -3343,3 +3343,18 @@ waiter#19#20 /// food#8#9 ///
 Although the restaurant itself is nice , I prefer not to go for the food .
 food#14#15 ///
 -1
+Creamy appetizers - - taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .
+Creamy appetizers#0#2 /// warm pitas#25#27 /// taramasalata#4#5 /// eggplant salad#6#8 /// Greek yogurt ( with cuccumber , dill , and garlic )#10#21 ///
+1 0 1 1 1
+Creamy appetizers - - taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .
+warm pitas#25#27 /// Creamy appetizers#0#2 /// taramasalata#4#5 /// eggplant salad#6#8 /// Greek yogurt ( with cuccumber , dill , and garlic )#10#21 ///
+0 1 1 1 1
+Creamy appetizers - - taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .
+taramasalata#4#5 /// Creamy appetizers#0#2 /// warm pitas#25#27 /// eggplant salad#6#8 /// Greek yogurt ( with cuccumber , dill , and garlic )#10#21 ///
+1 1 0 1 1
+Creamy appetizers - - taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .
+eggplant salad#6#8 /// Creamy appetizers#0#2 /// warm pitas#25#27 /// taramasalata#4#5 /// Greek yogurt ( with cuccumber , dill , and garlic )#10#21 ///
+1 1 0 1 1
+Creamy appetizers - - taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .
+Greek yogurt ( with cuccumber , dill , and garlic )#10#21 /// Creamy appetizers#0#2 /// warm pitas#25#27 /// taramasalata#4#5 /// eggplant salad#6#8 ///
+1 1 0 1 1

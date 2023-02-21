@@ -5,12 +5,14 @@
 # @File    : main.py
 # @Software: PyCharm
 
+import benepar
 import copy
 import os
 import re
 import spacy
 import xml.etree.ElementTree as ET
 
+from collections import defaultdict
 from tqdm import tqdm
 from spacy.symbols import ORTH
 
@@ -148,17 +150,10 @@ class Dataset4ABSA:
                 else:
                     compare_sent = sent
                     compare_id = sent_id
-            id2aspect = {}
-            compare_id = 0
-            all_aspect = []
+            id2aspect = defaultdict(lambda: [])
             for aspect, label, aspect_index, sent_id in tqdm(zip(aspect_list, label_list, aspect_index_list, data[4]),
                                                              total=len(aspect_list)):
-                if sent_id == compare_id:
-                    all_aspect.append([aspect, label, aspect_index])
-                elif sent_id != compare_id:
-                    id2aspect[compare_id] = all_aspect
-                    all_aspect = [[aspect, label, aspect_index]]
-                compare_id = sent_id
+                id2aspect[sent_id].append([aspect, label, aspect_index])
             aspect_and_index_list = []
             for id, aspects in id2aspect.items():
                 for i in range(len(aspects)):
@@ -167,6 +162,8 @@ class Dataset4ABSA:
                     cur_aspect = aspects[i]
                     final_aspect = [cur_aspect] + other_aspect
                     aspect_and_index_list.append(final_aspect)
+
+            assert len(sentence_list) == len(aspect_and_index_list)
             for sent, ai in zip(sentence_list, aspect_and_index_list):
                 all_aspect_info = ''
                 all_aspect_label = ''
@@ -183,11 +180,15 @@ class Dataset4ABSA:
             print("try 'one' or 'all'")
             return
 
+    def consitituency_parsing(self):
+        pass
+
 
 lap14_train = Dataset4ABSA('lap14', 'train')
 data = lap14_train.parse_semeval14()
 # lap14_train.write_dataset(data, 'one')
 lap14_train.write_dataset(data, 'all')
+
 
 lap14_test = Dataset4ABSA('lap14', 'test')
 data = lap14_test.parse_semeval14()

@@ -5236,3 +5236,9 @@ waiter#1#2 ///
 The waitress came to check in on us every few minutes , and began to clear the plates while half of us were still eating ( a big pet peeve of mine that happens almost everywhere , so I try to ignore it ) .
 waitress#1#2 ///
 -1
+I wish I could like this place more , and I wish someone would retrain the staff .
+place#6#7 /// staff#16#17 ///
+-1 -1
+I wish I could like this place more , and I wish someone would retrain the staff .
+staff#16#17 /// place#6#7 ///
+-1 -1

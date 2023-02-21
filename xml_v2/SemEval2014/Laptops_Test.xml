@@ -3765,13 +3765,13 @@
         <text>Ideal for someone on the go or for a high school students.</text>
     </sentence>
     <sentence id="834:1">
-        <text>A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.</text>
+        <text>A very important feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.</text>
         <aspectTerms>
-            <aspectTerm term="Firewire 800" polarity="positive"  from="27" to="39"/>
-            <aspectTerm term="USB3" polarity="negative"  from="81" to="85"/>
-            <aspectTerm term="USB3" polarity="neutral"  from="106" to="110"/>
-            <aspectTerm term="MAC OS" polarity="negative"  from="144" to="150"/>
-            <aspectTerm term="Windows 7" polarity="positive"  from="190" to="199"/>
+            <aspectTerm term="Firewire 800" polarity="positive"  from="28" to="40"/>
+            <aspectTerm term="USB3" polarity="negative"  from="82" to="86"/>
+            <aspectTerm term="USB3" polarity="neutral"  from="107" to="111"/>
+            <aspectTerm term="MAC OS" polarity="negative"  from="145" to="151"/>
+            <aspectTerm term="Windows 7" polarity="positive"  from="191" to="200"/>
         </aspectTerms>
     </sentence>
     <sentence id="146:1">

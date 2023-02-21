@@ -10804,3 +10804,21 @@ foods#13#14 /// appetizers#2#3 /// dim sum#7#9 /// food#21#22 ///
 From the appetizers we ate , the dim sum and other variety of foods , it was impossible to criticize the food .
 food#21#22 /// appetizers#2#3 /// dim sum#7#9 /// foods#13#14 ///
 1 1 1 1
+Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .
+table#1#2 /// pot of boiling water#4#8 /// meats#20#21 /// vegetables#23#24 /// rice#26#27 /// glass noodles#28#30 ///
+0 0 0 0 0 0
+Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .
+pot of boiling water#4#8 /// table#1#2 /// meats#20#21 /// vegetables#23#24 /// rice#26#27 /// glass noodles#28#30 ///
+0 0 0 0 0 0
+Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .
+meats#20#21 /// table#1#2 /// pot of boiling water#4#8 /// vegetables#23#24 /// rice#26#27 /// glass noodles#28#30 ///
+0 0 0 0 0 0
+Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .
+vegetables#23#24 /// table#1#2 /// pot of boiling water#4#8 /// meats#20#21 /// rice#26#27 /// glass noodles#28#30 ///
+0 0 0 0 0 0
+Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .
+rice#26#27 /// table#1#2 /// pot of boiling water#4#8 /// meats#20#21 /// vegetables#23#24 /// glass noodles#28#30 ///
+0 0 0 0 0 0
+Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .
+glass noodles#28#30 /// table#1#2 /// pot of boiling water#4#8 /// meats#20#21 /// vegetables#23#24 /// rice#26#27 ///
+0 0 0 0 0 0
